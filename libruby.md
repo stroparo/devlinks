@@ -1,4 +1,4 @@
-[index](README.md#links)
+[index](README.md#dev-links)
 
 # Ruby Libraries
 
