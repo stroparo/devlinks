@@ -35,5 +35,6 @@
 
 * autohotkey - [commands](https://autohotkey.com/docs/commands/) - [hotkeys](https://autohotkey.com/docs/Hotkeys.htm) - [hotstrings](https://autohotkey.com/docs/Hotstrings.htm) - cheatsheets, references
 * cloud::[gcloud](https://github.com/gregsramblings/google-cloud-4-words) - cheatsheets, references
+* team - [tmate](https://tmate.io/)
 
 ---
