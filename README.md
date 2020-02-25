@@ -2,9 +2,12 @@
 
 * [Guides](devguides.md#dev-guides)
 * [Libs](https://libraries.io/) - [js](libjs.md)/[www](http://www.javascripting.com/) - [py](libpython.md)/[core](https://docs.python.org/3/library/)/[www](https://python.libhunt.com/) - [ruby](libruby.md)
+* Practice::Apps - [180-websites](https://zube.io/blog/how-i-built-180-websites-in-180-days-and-became-a-yc-fellowship-founder/) - [app-ideas](https://github.com/florinpop17/app-ideas)
+* Practice::Challenges - **[advent](http://adventofcode.com/)** - [checkio](https://checkio.org/) - [edabit](https://edabit.com/) - [euler](https://projecteuler.net) - [hackerrank](https://www.hackerrank.com/) - [wars](https://www.codewars.com/)
+* [Practice::Etcetera](#practice)
 * [Resources](https://github.com/zero-to-mastery/resources) - [@ehchua](https://www3.ntu.edu.sg/home/ehchua/programming/) - [roadmap.sh](https://roadmap.sh/)
 * Sec - [SonaType-OSS-index](https://ossindex.sonatype.org/)
-* [Tools](devtools.md#tools) - [awesomo-list](https://github.com/lk-geimfari/awesomo) - [more-tools-below](#tools)
+* [Tools](#tools) - [awesomo-list](https://github.com/lk-geimfari/awesomo) - [other-tools](devtools.md#dev-tools)
 * [Vim](vim.md#vim)
 
 ---
@@ -34,8 +37,6 @@
 
 ## Practice
 
-* Apps - [180-websites](https://zube.io/blog/how-i-built-180-websites-in-180-days-and-became-a-yc-fellowship-founder/) - [app-ideas](https://github.com/florinpop17/app-ideas)
-* Challenges - **[advent](http://adventofcode.com/)** - [checkio](https://checkio.org/) - [edabit](https://edabit.com/) - [euler](https://projecteuler.net) - [hackerrank](https://www.hackerrank.com/) - [wars](https://www.codewars.com/)
 * Js - [fight-club](https://jsfight.club/) - [warriorjs](https://warriorjs.com/)
 * Py - [interactive](https://github.com/donnemartin/interactive-coding-challenges#interactive-coding-challenges) - [practice](http://www.practicepython.org/) - [pybites](https://pybit.es/pages/challenges.html)
 
