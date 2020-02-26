@@ -5,9 +5,9 @@
 * Practice::Apps - [180-websites](https://zube.io/blog/how-i-built-180-websites-in-180-days-and-became-a-yc-fellowship-founder/) - [app-ideas](https://github.com/florinpop17/app-ideas)
 * Practice::Challenges - **[advent](http://adventofcode.com/)** - [codewars](https://www.codewars.com/) - [euler](https://projecteuler.net) - [hackerrank](https://www.hackerrank.com/)
 * [Practice::Etcetera](#practice)
-* [Resources](https://github.com/zero-to-mastery/resources) - [@ehchua](https://www3.ntu.edu.sg/home/ehchua/programming/)
+* [Resources](https://github.com/zero-to-mastery/resources) - [@ehchua](https://www3.ntu.edu.sg/home/ehchua/programming/) - [awesomo](https://github.com/lk-geimfari/awesomo)
 * Sec - [SonaType-OSS-index](https://ossindex.sonatype.org/)
-* [Tools](#tools) - [awesomo-list](https://github.com/lk-geimfari/awesomo) - [other-tools](devtools.md#dev-tools)
+* [Tools](#tools) - [other-tools](devtools.md#dev-tools)
 * [Vim](vim.md#vim)
 
 ---
