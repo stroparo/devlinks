@@ -3,7 +3,7 @@
 * [Guides](devguides.md#dev-guides) - [roadmap.sh](https://roadmap.sh/)
 * [Libs](https://libraries.io/) - [js](libjs.md)/[www](http://www.javascripting.com/) - [py](libpython.md)/[core](https://docs.python.org/3/library/)/[www](https://python.libhunt.com/) - [ruby](libruby.md)
 * Practice::Apps - [180-websites](https://zube.io/blog/how-i-built-180-websites-in-180-days-and-became-a-yc-fellowship-founder/) - [app-ideas](https://github.com/florinpop17/app-ideas)
-* Practice::Challenges - **[advent](http://adventofcode.com/)** - [euler](https://projecteuler.net) - [hackerrank](https://www.hackerrank.com/) - [codewars](https://www.codewars.com/)
+* Practice::Challenges - **[advent](http://adventofcode.com/)** - [codewars](https://www.codewars.com/) - [euler](https://projecteuler.net) - [hackerrank](https://www.hackerrank.com/)
 * [Practice::Etcetera](#practice)
 * [Resources](https://github.com/zero-to-mastery/resources) - [@ehchua](https://www3.ntu.edu.sg/home/ehchua/programming/)
 * Sec - [SonaType-OSS-index](https://ossindex.sonatype.org/)
