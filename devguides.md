@@ -6,7 +6,8 @@ Software Development Guides, HowTos, Tutorials etc.
 
 * Courses - [checkio](https://checkio.org/) - [edabit](https://edabit.com/) - [freeCodeCamp](https://www.freecodecamp.org/) - [gitconnected](https://gitconnected.com/learn/) - [Microverse($)](https://www.microverse.org/) - [Odin](https://www.theodinproject.com/)
 * Linux - [@ryans](https://ryanstutorials.net/) - [command-line](https://github.com/jlevy/the-art-of-command-line)/[floss](http://write.flossmanuals.net/command-line/introduction/)
-* [regex](https://www.regular-expressions.info/) - [rexegg](http://www.rexegg.com/)
+* [Regular-Expressions](https://www.regular-expressions.info/) - [rexegg](http://www.rexegg.com/)
+* Stack::Go - [by-example](https://gobyexample.com) - [specs](https://golang.org/ref/spec) - [wiki](https://github.com/golang/go/wiki)
 * Web - [google](https://developers.google.com/web/) - **[htmldog](https://www.htmldog.com/)** - [mozilla](https://developer.mozilla.org/docs/Web)
 * Web::Frontend - [@grab](https://github.com/grab/front-end-guide) - [@masters](https://frontendmasters.com/books/front-end-handbook/2019/)/[18](https://frontendmasters.com/books/front-end-handbook/2018/) - [css](http://csstutorial.org/) - [learn](http://learnlayout.com)
 
@@ -19,23 +20,6 @@ Software Development Guides, HowTos, Tutorials etc.
 
 ---
 
-## Git
-
-* [@owsec](https://www.onwebsecurity.com/tag/git.html)
-* [automation-@owsec](https://www.onwebsecurity.com/configuration/automating-repetitive-git-setup-tasks.html)
-* [cherry-pick](https://mijingo.com/blog/using-git-cherry-pick)
-* [oneflow](http://endoflineblog.com/oneflow-a-git-branching-model-and-workflow)
-* [patch-a(pply)m(ailbox)](https://mijingo.com/blog/creating-and-applying-patch-files-in-git)
-* [rebase](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase)
-* [squash](https://driggl.com/blog/a/how-squashing-commits-can-improve-your-git-workflow)
-
----
-
-## Go Lang
-
-* [by-example](https://gobyexample.com)
-* [specs](https://golang.org/ref/spec)
-* [wiki](https://github.com/golang/go/wiki)
 
 ---
 
@@ -60,7 +44,7 @@ Software Development Guides, HowTos, Tutorials etc.
 
 ## Python
 
-* [django2-@freeCodeCamp](https://www.youtube.com/watch?v=YZvRrldjf1Y)
+* lib [django2-@freeCodeCamp](https://www.youtube.com/watch?v=YZvRrldjf1Y)
 * ref performance [@pybit.es](https://pybit.es/faster-python.html)
 * ref performance [official](https://wiki.python.org/moin/PythonSpeed/PerformanceTips)/[complexity](https://wiki.python.org/moin/TimeComplexity)
 
@@ -79,3 +63,10 @@ Software Development Guides, HowTos, Tutorials etc.
 * [API 31 security tips](https://www.freecodecamp.org/news/31-api-security-tips/)
 
 ---
+
+## Tools
+
+* Git - [automation](https://www.onwebsecurity.com/configuration/automating-repetitive-git-setup-tasks.html) - [cherry-pick](https://mijingo.com/blog/using-git-cherry-pick) - [oneflow](http://endoflineblog.com/oneflow-a-git-branching-model-and-workflow) - [patch-a(pply)m(ailbox)](https://mijingo.com/blog/creating-and-applying-patch-files-in-git) - [rebase](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase) - [squash](https://driggl.com/blog/a/how-squashing-commits-can-improve-your-git-workflow)
+
+---
+
