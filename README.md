@@ -50,7 +50,7 @@
 * Containers::OCI - [buildah](https://buildah.io/) - [podman](https://podman.io/)
 * Data - [chilkat](https://tools.chilkat.io/) - [rishida|r12a](https://r12a.github.io/)
 * Data::DB::clients - [mssql-cli](https://github.com/dbcli/mssql-cli) - [mycli](http://www.mycli.net) - [pgcli](https://www.pgcli.com) - [squirrel](http://www.squirrelsql.org/)
-* [DevOps](https://stackify.com/top-devops-tools/) list of tools at stackify.com
+* [DevOps tools | stackify.com](https://stackify.com/top-devops-tools/)
 * Env [direnv](https://direnv.net/) - environment variable management
 * REPL Groovy - [console](https://groovyconsole.appspot.com/) - [jdoodle.com](https://www.jdoodle.com/execute-groovy-online) - [playground](https://groovy-playground.appspot.com/) - [tio.run](https://tio.run/#groovy)
 * REPL Python - [fiddle](http://pythonfiddle.com/) - [tutor](http://pythontutor.com/)/[live](http://pythontutor.com/live.html#mode=edit) - [repl.it](https://repl.it/languages/python3)
