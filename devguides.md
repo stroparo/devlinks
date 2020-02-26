@@ -4,7 +4,7 @@
 
 Software Development Guides, HowTos, Tutorials etc.
 
-* Courses - [freeCodeCamp](https://www.freecodecamp.org/) - [gitconnected](https://gitconnected.com/learn/) - [Microverse($)](https://www.microverse.org/) - [Odin](https://www.theodinproject.com/)
+* Courses - [checkio](https://checkio.org/) - [edabit](https://edabit.com/) - [freeCodeCamp](https://www.freecodecamp.org/) - [gitconnected](https://gitconnected.com/learn/) - [Microverse($)](https://www.microverse.org/) - [Odin](https://www.theodinproject.com/)
 * Linux - [@ryans](https://ryanstutorials.net/) - [command-line](https://github.com/jlevy/the-art-of-command-line)/[floss](http://write.flossmanuals.net/command-line/introduction/)
 * [regex](https://www.regular-expressions.info/) - [rexegg](http://www.rexegg.com/)
 * Web - [google](https://developers.google.com/web/) - **[htmldog](https://www.htmldog.com/)** - [mozilla](https://developer.mozilla.org/docs/Web)
