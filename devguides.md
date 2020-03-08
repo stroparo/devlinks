@@ -25,13 +25,13 @@ Software Development Guides, HowTos, Tutorials etc.
 
 ## [Java](https://www.javaguides.net/)
 
-* doc [exception handling](https://docs.oracle.com/javase/tutorial/essential/exceptions/runtime.html)
-* doc [OO access control](https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html)
-* ref [OO pattern DTO](https://www.javaguides.net/2018/08/data-transfer-object-design-pattern-in-java.html) - [antipattern!](https://www.yegor256.com/2016/07/06/data-transfer-object.html) - [osgi.org](https://enroute.osgi.org/FAQ/420-dtos.html) - [spring](https://www.baeldung.com/entity-to-and-from-dto-for-a-java-spring-application) - [vs-vo-&-pojo](https://stackoverflow.com/questions/1612334/difference-between-dto-vo-pojo-javabeans)
-* tut [AspectJ](https://www.baeldung.com/aspectj)
-* tut [CompletableFuture](https://www.baeldung.com/java-completablefuture)
-* tut [Log4j-secrets](https://www.alibabacloud.com/blog/exploring-the-secrets-of-java-logs-log4j-2-log-system_594821)
-* tut [Type downcast with instanceof](https://www.javatpoint.com/downcasting-with-instanceof-operator)
+* core [fundamentals](https://self-learning-java-tutorial.blogspot.com/2016/05/java-home-page.html) - [exceptions](https://docs.oracle.com/javase/tutorial/essential/exceptions/runtime.html)
+* core oop - [access](https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html)
+* core types - [downcast(instanceof)](https://www.javatpoint.com/downcasting-with-instanceof-operator)
+* lib [AspectJ](https://www.baeldung.com/aspectj)
+* lib [CompletableFuture](https://www.baeldung.com/java-completablefuture)
+* lib [Log4j-secrets](https://www.alibabacloud.com/blog/exploring-the-secrets-of-java-logs-log4j-2-log-system_594821)
+* patterns [DTO](https://www.javaguides.net/2018/08/data-transfer-object-design-pattern-in-java.html) - [antipattern!](https://www.yegor256.com/2016/07/06/data-transfer-object.html) - [osgi.org](https://enroute.osgi.org/FAQ/420-dtos.html) - [spring](https://www.baeldung.com/entity-to-and-from-dto-for-a-java-spring-application) - [vs-vo-&-pojo](https://stackoverflow.com/questions/1612334/difference-between-dto-vo-pojo-javabeans)
 
 ---
 
