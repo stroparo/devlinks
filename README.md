@@ -15,12 +15,14 @@
 ## Cheatsheets
 
 * bash - [aurelio(pt)](https://aurelio.net/shell/canivete/)/[pdf](https://aurelio.net/shell/canivete/pdf/canivete-shell.pdf) - [devhints](https://devhints.io/bash) - [manual](https://www.gnu.org/software/bash/manual/bash.html)
+* cloud - [gcp](https://github.com/gregsramblings/google-cloud-4-words)
 * [EditorConfig](https://github.com/editorconfig/editorconfig/wiki/EditorConfig-Properties)
 * git - [flow](https://danielkummer.github.io/git-flow-cheatsheet/) - [submodules](https://services.github.com/on-demand/downloads/submodule-vs-subtree-cheat-sheet/)
 * [hyperpolyglot](http://hyperpolyglot.org/)
-* [js](https://mbeaudru.github.io/modern-js-cheatsheet/) - [30s](https://github.com/Chalarangelo/30-seconds-of-code) - [es6-features](http://es6-features.org/)
-* [py](https://www.pythonsheets.com/) - [30s](https://github.com/kriadmin/30-seconds-of-python-code) - [virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/en/latest/command_ref.html)
+* macro autohotkey - [commands](https://autohotkey.com/docs/commands/) - [hotkeys](https://autohotkey.com/docs/Hotkeys.htm) - [hotstrings](https://autohotkey.com/docs/Hotstrings.htm)
 * shortcuts - [pycharm](https://www.jetbrains.com/help/pycharm/mastering-keyboard-shortcuts.html) - [by-category](https://www.jetbrains.com/help/pycharm/keyboard-shortcuts-by-category.html) - [refcard](https://resources.jetbrains.com/storage/products/pycharm/docs/PyCharm_ReferenceCard.pdf)
+* stack::[js](https://mbeaudru.github.io/modern-js-cheatsheet/) - [30s](https://github.com/Chalarangelo/30-seconds-of-code) - [es6-features](http://es6-features.org/)
+* stack::[py](https://www.pythonsheets.com/) - [30s](https://github.com/kriadmin/30-seconds-of-python-code) - [virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/en/latest/command_ref.html)
 * terminal - [screen](http://aperiodic.net/screen/quick_reference)/[iu.edu](https://kb.iu.edu/d/acuy) - [tmux](https://www.outcoldman.com/cheatsheets/tmux/) - [unixtoolbox](http://cb.vu/unixtoolbox.xhtml)
 * [vim](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html) - [ack](https://github.com/mileszs/ack.vim#keyboard-shortcuts) - [bg](https://bitbucket.org/tednaleid/vim-shortcut-wallpaper/raw/tip/vim-shortcuts2560x1600.png) - [@jordanhudgens](https://github.com/jordanhudgens/vim-settings/blob/master/vim-cheat-sheet.md) - [@stroparo](https://gist.github.com/stroparo/e848823768679273e58995f94e2f4049#file-vim-mkd) - [vimsheet.com](http://vimsheet.com/)
 * web - [30s-css](https://atomiks.github.io/30-seconds-of-css/) - [58b-css](https://jrl.ninja/etc/1/) - [flexbox](https://darekkay.com/dev/flexbox-cheatsheet.html) - [html](https://htmlcheatsheet.com/) - [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
@@ -37,8 +39,10 @@
 
 ## Practice
 
-* Js - [fight-club](https://jsfight.club/) - [warriorjs](https://warriorjs.com/)
-* Py - [interactive](https://github.com/donnemartin/interactive-coding-challenges#interactive-coding-challenges) - [practice](http://www.practicepython.org/) - [pybites](https://pybit.es/pages/challenges.html)
+* Bootcamps(+job) - [coderbyte](https://coderbyte.com/) - [microverse](https://www.microverse.org/) - [pathrise](https://www.pathrise.com/) - [triplebyte](https://triplebyte.com/)
+* Interview - [tips](https://www.utsavahuja.com/9-software-engineering-offers/)
+* Stack::Js - [fight-club](https://jsfight.club/) - [warriorjs](https://warriorjs.com/)
+* Stack::Python - [interactive](https://github.com/donnemartin/interactive-coding-challenges#interactive-coding-challenges) - [practice](http://www.practicepython.org/) - [pybites](https://pybit.es/pages/challenges.html)
 
 ---
 
