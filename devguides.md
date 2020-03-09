@@ -51,6 +51,7 @@ Software Development Guides, HowTos, Tutorials etc.
 * lib [django2-@freeCodeCamp](https://www.youtube.com/watch?v=YZvRrldjf1Y)
 * ref performance [@pybit.es](https://pybit.es/faster-python.html)
 * ref performance [official](https://wiki.python.org/moin/PythonSpeed/PerformanceTips)/[complexity](https://wiki.python.org/moin/TimeComplexity)
+* tips [5 tricks you need to learn today](https://towardsdatascience.com/five-python-tricks-you-need-to-learn-today-9dbe03c790ab)
 
 ---
 

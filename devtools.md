@@ -16,11 +16,12 @@
 ## Editors & IDEs
 
 * Dev envs - [@brpaz 18](https://dev.to/brpaz/my-linux-development-environment-of-2018-ch7)
-* Eclipse repo/update sites - [devstyle(+dark+theme)](http://www.genuitec.com/updates/devstyle/ci/) - [sonarlint](https://www.sonarlint.org/eclipse/)
+* Eclipse repo/update sites - [devstyle](http://www.genuitec.com/updates/devstyle/ci/) - [sonarlint](https://www.sonarlint.org/eclipse/)
 * [Editor Config wiki](https://github.com/editorconfig/editorconfig/wiki/EditorConfig-Properties)
-* VSCode/[VSCodium](https://vscodium.com/) - [sshcode(r)](https://github.com/cdr/sshcode) - [sync](https://github.com/shanalikhan/code-settings-sync)
-* VSCode [extensions](https://www.freecodecamp.org/news/visual-studio-code-extensions-ff7f29b71341/) - [2017](https://www.freecodecamp.org/news/favorite-vs-code-extensions-2017-786ea235812f/) - [js](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
-* Windows - [notepad2](http://www.flos-freeware.ch/notepad2.html)/[.com](https://notepad2.com/) - [lint-py-flake8](https://code.visualstudio.com/docs/python/linting#_flake8)
+* IntelliJ - [settings](https://darekkay.com/blog/intellij-idea-settings/)
+* VSCode/[VSCodium](https://vscodium.com/) - [sshcode(r)](https://github.com/cdr/sshcode)
+* VSCode extensions - [code-settings-sync](https://github.com/shanalikhan/code-settings-sync) - [es7](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) - [lint-py-flake8](https://code.visualstudio.com/docs/python/linting#_flake8)
+* Windows - [notepad2](http://www.flos-freeware.ch/notepad2.html)/[.com](https://notepad2.com/)
 
 ---
 
