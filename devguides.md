@@ -29,7 +29,7 @@ Software Development Guides, HowTos, Tutorials etc.
 
 ## Stack::Java
 
-* core [fundamentals](https://self-learning-java-tutorial.blogspot.com/2016/05/java-home-page.html) - [exceptions](https://docs.oracle.com/javase/tutorial/essential/exceptions/runtime.html)
+* core - [exceptions](https://docs.oracle.com/javase/tutorial/essential/exceptions/runtime.html)
 * core oop - [access](https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html)
 * core types - [downcast(instanceof)](https://www.javatpoint.com/downcasting-with-instanceof-operator)
 * lib [AspectJ](https://www.baeldung.com/aspectj)
@@ -64,10 +64,7 @@ Software Development Guides, HowTos, Tutorials etc.
 
 ## Tools
 
-* Editor settings - [intellij](https://darekkay.com/blog/intellij-idea-settings/)
 * Git - [automation](https://www.onwebsecurity.com/configuration/automating-repetitive-git-setup-tasks.html) - [cherry-pick](https://mijingo.com/blog/using-git-cherry-pick) - [oneflow](http://endoflineblog.com/oneflow-a-git-branching-model-and-workflow) - [patch-a(pply)m(ailbox)](https://mijingo.com/blog/creating-and-applying-patch-files-in-git) - [rebase](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase) - [squash](https://driggl.com/blog/a/how-squashing-commits-can-improve-your-git-workflow)
-* JMeter - [tut-2018](https://octoperf.com/blog/2018/03/29/jmeter-tutorial/)
-* TestKitchen - [+salt](https://medium.com/linux-academy/infrastructure-testing-for-beginners-getting-started-with-test-kitchen-and-salt-fb31942c6cbf)
 
 ---
 
