@@ -27,7 +27,7 @@ Software Development Guides, HowTos, Tutorials etc.
 
 ---
 
-## Stack::[Java](https://www.javaguides.net/)
+## Stack::Java
 
 * core [fundamentals](https://self-learning-java-tutorial.blogspot.com/2016/05/java-home-page.html) - [exceptions](https://docs.oracle.com/javase/tutorial/essential/exceptions/runtime.html)
 * core oop - [access](https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html)
