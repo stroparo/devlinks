@@ -15,7 +15,7 @@
 
 ## Editors & IDEs
 
-* Dev envs - [@brpaz 18](https://dev.to/brpaz/my-linux-development-environment-of-2018-ch7)
+* Dev envs - [@brpaz(2018)](https://dev.to/brpaz/my-linux-development-environment-of-2018-ch7)
 * Eclipse repo/update sites - [devstyle](http://www.genuitec.com/updates/devstyle/ci/) - [sonarlint](https://www.sonarlint.org/eclipse/)
 * [Editor Config wiki](https://github.com/editorconfig/editorconfig/wiki/EditorConfig-Properties)
 * IntelliJ - [settings](https://darekkay.com/blog/intellij-idea-settings/)
