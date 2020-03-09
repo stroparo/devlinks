@@ -20,7 +20,7 @@
 * [Editor Config wiki](https://github.com/editorconfig/editorconfig/wiki/EditorConfig-Properties)
 * IntelliJ - [settings](https://darekkay.com/blog/intellij-idea-settings/)
 * VSCode/[VSCodium](https://vscodium.com/) - [sshcode(r)](https://github.com/cdr/sshcode)
-* VSCode extensions - [code-settings-sync](https://github.com/shanalikhan/code-settings-sync) - [es7](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) - [lint-py-flake8](https://code.visualstudio.com/docs/python/linting#_flake8)
+* VSCode extensions - [21](https://www.dunebook.com/best-vscode-python-extensions/) - [code-settings-sync](https://github.com/shanalikhan/code-settings-sync) - [es7](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) - [lint-py-flake8](https://code.visualstudio.com/docs/python/linting#_flake8)
 * Windows - [notepad2](http://www.flos-freeware.ch/notepad2.html)/[.com](https://notepad2.com/)
 
 ---
