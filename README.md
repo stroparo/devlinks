@@ -29,7 +29,7 @@
 
 ## Architecture & Patterns
 
-* Design - [12factor](https://12factor.net) - [DP2e](http://www.ccs.neu.edu/home/matthias/HtDP2e/)
+* Design - [12factor](https://12factor.net) - [DP2e](http://www.ccs.neu.edu/home/matthias/HtDP2e/) - [EAA-patterns-catalog](https://martinfowler.com/eaaCatalog/)
 * Styles - [groovy](http://groovy-lang.org/style-guide.html) - [js](https://github.com/standard/standard) - [py](https://pep8.org/) - [rb](https://github.com/bbatsov/ruby-style-guide) - [sh](https://google.github.io/styleguide/shell.xml)
 * Web - [BEM](http://getbem.com/introduction/) - [immutablewebapps](https://immutablewebapps.org/) - [JAMstack](https://jamstack.org)
 
