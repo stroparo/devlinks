@@ -1,7 +1,7 @@
 # Dev Links
 
 * [./architecture](architecture.md#architecture)
-* [./devGuides](devguides.md#dev-guides)
+* [./devguides](devguides.md#dev-guides)
 * [./devtools](devtools.md#dev-tools)
 * ./libs - [javascript](libjs.md) - [python](libpython.md) - [ruby](libruby.md)
 * [./vim](vim.md#vim)
