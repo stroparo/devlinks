@@ -28,7 +28,7 @@
 
 * Bootcamps(+job) - [coderbyte](https://coderbyte.com/) - [microverse](https://www.microverse.org/) - [pathrise](https://www.pathrise.com/) - [triplebyte](https://triplebyte.com/)
 * Challenges - **[advent](http://adventofcode.com/)** - [codewars](https://www.codewars.com/) - [euler](https://projecteuler.net) - [hackerrank](https://www.hackerrank.com/)
-* Code apps - [180-websites](https://zube.io/blog/how-i-built-180-websites-in-180-days-and-became-a-yc-fellowship-founder/) - [app-ideas](https://github.com/florinpop17/app-ideas)
+* Challenges::Apps - [180websites](https://zube.io/blog/how-i-built-180-websites-in-180-days-and-became-a-yc-fellowship-founder/) - [ideas](https://github.com/florinpop17/app-ideas)
 * Interview - [tips](https://www.utsavahuja.com/9-software-engineering-offers/)
 * Stack::Js - [fight-club](https://jsfight.club/) - [warriorjs](https://warriorjs.com/)
 * Stack::Python - [interactive](https://github.com/donnemartin/interactive-coding-challenges#interactive-coding-challenges) - [practice](http://www.practicepython.org/) - [pybites](https://pybit.es/pages/challenges.html)
