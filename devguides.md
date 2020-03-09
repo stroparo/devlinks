@@ -49,6 +49,7 @@ Software Development Guides, HowTos, Tutorials etc.
 ## Stack::Python
 
 * lib [django2-@freeCodeCamp](https://www.youtube.com/watch?v=YZvRrldjf1Y)
+* lib [requests](https://realpython.com/python-requests/) for HTTP ops
 * lib [SQL libraries tutorial](https://realpython.com/python-sql-libraries/)
 * ref performance [@pybit.es](https://pybit.es/faster-python.html)
 * ref performance [official](https://wiki.python.org/moin/PythonSpeed/PerformanceTips)/[complexity](https://wiki.python.org/moin/TimeComplexity)
