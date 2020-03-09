@@ -28,10 +28,9 @@
 ## Front-end assets
 
 * [@jonas web resources](http://codingheroes.io/resources/)
-* [Bootstrap themes - freshdesignweb.com](https://freshdesignweb.com/free-bootstrap-templates/)
-* [Bootstrap themes - startbootstrap.com](https://startbootstrap.com/template-categories/all/)
+* Bootstrap themes - [@fresh](https://freshdesignweb.com/free-bootstrap-templates/) - [@start](https://startbootstrap.com/template-categories/all/)
 * icons - [free](https://icon-library.net/)
-* [textures - toptal](https://www.toptal.com/designers/subtlepatterns/)
+* textures - [toptal](https://www.toptal.com/designers/subtlepatterns/)
 
 ---
 
