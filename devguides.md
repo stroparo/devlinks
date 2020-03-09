@@ -20,10 +20,7 @@ Software Development Guides, HowTos, Tutorials etc.
 
 ---
 
-
----
-
-## [Java](https://www.javaguides.net/)
+## Stack::[Java](https://www.javaguides.net/)
 
 * core [fundamentals](https://self-learning-java-tutorial.blogspot.com/2016/05/java-home-page.html) - [exceptions](https://docs.oracle.com/javase/tutorial/essential/exceptions/runtime.html)
 * core oop - [access](https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html)
@@ -35,14 +32,14 @@ Software Development Guides, HowTos, Tutorials etc.
 
 ---
 
-## JavaScript
+## Stack::JavaScript
 
 * book [node @mixu](http://book.mixu.net/node/)
 * workflow [Hitchhikers... by @mbotto](https://marcobotto.com/blog/the-hitchhikers-guide-to-the-modern-front-end-development-workflow/)
 
 ---
 
-## Python
+## Stack::Python
 
 * lib [django2-@freeCodeCamp](https://www.youtube.com/watch?v=YZvRrldjf1Y)
 * ref performance [@pybit.es](https://pybit.es/faster-python.html)
@@ -50,7 +47,7 @@ Software Development Guides, HowTos, Tutorials etc.
 
 ---
 
-## Ruby
+## Stack::Ruby
 
 * tips [Rails console](https://pragmaticstudio.com/tutorials/rails-console-shortcuts-tips-tricks)
 * tips [rubyquicktips.com](http://rubyquicktips.com/)
@@ -58,15 +55,17 @@ Software Development Guides, HowTos, Tutorials etc.
 
 ---
 
-## Security
-
-* [API 31 security tips](https://www.freecodecamp.org/news/31-api-security-tips/)
-
----
-
 ## Tools
 
 * Git - [automation](https://www.onwebsecurity.com/configuration/automating-repetitive-git-setup-tasks.html) - [cherry-pick](https://mijingo.com/blog/using-git-cherry-pick) - [oneflow](http://endoflineblog.com/oneflow-a-git-branching-model-and-workflow) - [patch-a(pply)m(ailbox)](https://mijingo.com/blog/creating-and-applying-patch-files-in-git) - [rebase](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase) - [squash](https://driggl.com/blog/a/how-squashing-commits-can-improve-your-git-workflow)
+
+---
+
+## Miscellaneous
+
+#### Security
+
+* [API 31 security tips](https://www.freecodecamp.org/news/31-api-security-tips/)
 
 ---
 
