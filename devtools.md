@@ -1,12 +1,23 @@
 [index](README.md#dev-links)
 
 # Dev Tools
+
+* API - [HTTPie](https://httpie.org/doc)
+* CLI - [@terminalsare.sexy](https://terminalsare.sexy/) - [tldr(man)](https://github.com/tldr-pages/tldr)
+* Containers::K8s - [forge](https://forge.sh/)
+* Containers::OCI - [buildah](https://buildah.io/) - [podman](https://podman.io/)
+* Data - [chilkat](https://tools.chilkat.io/) - [rishida|r12a](https://r12a.github.io/)
+* [DevOps tools | stackify.com](https://stackify.com/top-devops-tools/)
+* Env [direnv](https://direnv.net/) - environment variable management
+* Versioning - [bumpversion](https://github.com/peritus/bumpversion) - [gitignore](https://github.com/github/gitignore) - [gitea (srv)](https://gitea.io/en-us/) - [legit](https://github.com/kennethreitz/legit)
+
 ---
 
 ## Editors & IDEs
 
 * Dev envs - [@brpaz 18](https://dev.to/brpaz/my-linux-development-environment-of-2018-ch7)
 * Eclipse repo/update sites - [devstyle(+dark+theme)](http://www.genuitec.com/updates/devstyle/ci/) - [sonarlint](https://www.sonarlint.org/eclipse/)
+* [Editor Config wiki](https://github.com/editorconfig/editorconfig/wiki/EditorConfig-Properties)
 * VSCode/[VSCodium](https://vscodium.com/) - [sshcode(r)](https://github.com/cdr/sshcode) - [sync](https://github.com/shanalikhan/code-settings-sync)
 * VSCode [extensions](https://www.freecodecamp.org/news/visual-studio-code-extensions-ff7f29b71341/) - [2017](https://www.freecodecamp.org/news/favorite-vs-code-extensions-2017-786ea235812f/) - [js](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 * Windows - [notepad2](http://www.flos-freeware.ch/notepad2.html)/[.com](https://notepad2.com/) - [lint-py-flake8](https://code.visualstudio.com/docs/python/linting#_flake8)
@@ -23,18 +34,13 @@
 
 ---
 
-## Ops
+## Other systems & tools
 
-* Deploy - [netlify](https://www.netlify.com/)
-* Deploy K8s - [forge.sh](https://forge.sh/)
+* Data::DB::clients - [mssql-cli](https://github.com/dbcli/mssql-cli) - [mycli](http://www.mycli.net) - [pgcli](https://www.pgcli.com) - [squirrel](http://www.squirrelsql.org/)
 * Net proxy debug & monitor [Charles](https://www.charlesproxy.com/)
-
----
-
-## Other tools
-
-* autohotkey - [commands](https://autohotkey.com/docs/commands/) - [hotkeys](https://autohotkey.com/docs/Hotkeys.htm) - [hotstrings](https://autohotkey.com/docs/Hotstrings.htm) - cheatsheets, references
-* cloud::[gcloud](https://github.com/gregsramblings/google-cloud-4-words) - cheatsheets, references
-* team - [tmate](https://tmate.io/)
+* REPL Groovy - [console](https://groovyconsole.appspot.com/) - [jdoodle.com](https://www.jdoodle.com/execute-groovy-online) - [playground](https://groovy-playground.appspot.com/) - [tio.run](https://tio.run/#groovy)
+* REPL Python - [fiddle](http://pythonfiddle.com/) - [tutor](http://pythontutor.com/)/[live](http://pythontutor.com/live.html#mode=edit) - [repl.it](https://repl.it/languages/python3)
+* Service mesh - [consul](https://www.consul.io/intro/)
+* Stack::Js - [nodejs](https://nodejs.org/en/) - [nvm](https://github.com/creationix/nvm) - [nvm-windows](https://github.com/coreybutler/nvm-windows) - [yarn (dep mgmt)](https://yarnpkg.com/lang/en/) - [yeoman (build & mgmt)](https://yeoman.io/)
 
 ---

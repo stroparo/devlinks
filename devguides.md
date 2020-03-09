@@ -4,10 +4,9 @@
 
 Software Development Guides, HowTos, Tutorials etc.
 
-* Courses - [checkio](https://checkio.org/) - [coderbyte](https://coderbyte.com/) - [edabit](https://edabit.com/) - [freeCodeCamp](https://www.freecodecamp.org/) - [gitconnected](https://gitconnected.com/learn/) - [Microverse($)](https://www.microverse.org/) - [Odin](https://www.theodinproject.com/)
+* Code - [checkio](https://checkio.org/) - [edabit](https://edabit.com/) - [freeCodeCamp](https://www.freecodecamp.org/) - [gitconnected](https://gitconnected.com/learn/)
 * Linux - [@ryans](https://ryanstutorials.net/) - [command-line](https://github.com/jlevy/the-art-of-command-line)/[floss](http://write.flossmanuals.net/command-line/introduction/)
 * [Regular-Expressions](https://www.regular-expressions.info/) - [rexegg](http://www.rexegg.com/)
-* Stack::Go - [by-example](https://gobyexample.com) - [specs](https://golang.org/ref/spec) - [wiki](https://github.com/golang/go/wiki)
 * Web - [google](https://developers.google.com/web/) - **[htmldog](https://www.htmldog.com/)** - [mozilla](https://developer.mozilla.org/docs/Web)
 * Web::Frontend - [@grab](https://github.com/grab/front-end-guide) - [@masters](https://frontendmasters.com/books/front-end-handbook/2019/)/[18](https://frontendmasters.com/books/front-end-handbook/2018/) - [css](http://csstutorial.org/) - [learn](http://learnlayout.com)
 
@@ -17,6 +16,14 @@ Software Development Guides, HowTos, Tutorials etc.
 
 * [Kubernetes](https://auth0.com/blog/kubernetes-tutorial-step-by-step-introduction-to-basic-concepts/)
 * [Podman](https://developers.redhat.com/blog/2019/01/15/podman-managing-containers-pods/)
+
+---
+
+## Stack::Go
+
+* [by-example](https://gobyexample.com)
+* [specs](https://golang.org/ref/spec)
+* [wiki](https://github.com/golang/go/wiki)
 
 ---
 
