@@ -3,11 +3,12 @@
 * [./architecture](architecture.md#architecture)
 * [./devGuides](devguides.md#dev-guides)
 * [./devtools](devtools.md#dev-tools)
+* ./libs - [javascript](libjs.md) - [python](libpython.md) - [ruby](libruby.md)
 * [./vim](vim.md#vim)
-* [Libs](https://libraries.io/) - [js](libjs.md)/[www](http://www.javascripting.com/) - [py](libpython.md)/[core](https://docs.python.org/3/library/)/[www](https://python.libhunt.com/) - [ruby](libruby.md)
+* [Libraries.io](https://libraries.io/) - [javascripting](http://www.javascripting.com/) - [python3-core](https://docs.python.org/3/library/) - [python.libhunt.com](https://python.libhunt.com/)
 * [Resources](https://github.com/zero-to-mastery/resources) - [@ehchua](https://www3.ntu.edu.sg/home/ehchua/programming/) - [awesomo](https://github.com/lk-geimfari/awesomo) - [free-for.dev](https://free-for.dev/#/) - [sec-SonaType-index](https://ossindex.sonatype.org/)
 * [roadmap.sh](https://roadmap.sh/)
-* styles - [groovy](http://groovy-lang.org/style-guide.html) - [js](https://github.com/standard/standard) - [py](https://pep8.org/) - [rb](https://github.com/bbatsov/ruby-style-guide) - [sh](https://google.github.io/styleguide/shell.xml)
+* styles - [groovy](http://groovy-lang.org/style-guide.html) - [javascript](https://github.com/standard/standard) - [python](https://pep8.org/) - [ruby](https://github.com/bbatsov/ruby-style-guide) - [shell@google](https://google.github.io/styleguide/shell.xml)
 
 ---
 
