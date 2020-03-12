@@ -34,7 +34,7 @@ Software Development Guides, HowTos, Tutorials etc.
 * core types - [downcast(instanceof)](https://www.javatpoint.com/downcasting-with-instanceof-operator)
 * lib [AspectJ](https://www.baeldung.com/aspectj)
 * lib [CompletableFuture](https://www.baeldung.com/java-completablefuture)
-* lib [Log4j](https://www.baeldung.com/log4j2-appenders-layouts-filters) - [secrets](https://www.alibabacloud.com/blog/exploring-the-secrets-of-java-logs-log4j-2-log-system_594821)
+* lib [Log4j](https://www.baeldung.com/log4j2-appenders-layouts-filters) - [@stackify](https://stackify.com/log4j2-java/) - [secrets](https://www.alibabacloud.com/blog/exploring-the-secrets-of-java-logs-log4j-2-log-system_594821)
 * patterns [DTO](https://www.javaguides.net/2018/08/data-transfer-object-design-pattern-in-java.html) - [antipattern!](https://www.yegor256.com/2016/07/06/data-transfer-object.html) - [osgi.org](https://enroute.osgi.org/FAQ/420-dtos.html) - [spring](https://www.baeldung.com/entity-to-and-from-dto-for-a-java-spring-application) - [vs-vo-&-pojo](https://stackoverflow.com/questions/1612334/difference-between-dto-vo-pojo-javabeans)
 
 ---
