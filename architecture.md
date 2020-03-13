@@ -15,7 +15,7 @@
 
 * [10min DDD tutorial](https://hackernoon.com/clean-domain-driven-design-in-10-minutes-6037a59c8b7b)
 * [data](https://medium.com/@danielsomerfield/domain-driven-design-in-data-engineering-442be7a0705b)
-* [subdomains: core, supporting, generic](https://blog.jonathanoliver.com/ddd-strategic-design-core-supporting-and-generic-subdomains/)
+* subdomains - [ddd-basics](https://vladikk.com/2018/01/26/revisiting-the-basics-of-ddd/) - [phrasing...](https://robertbasic.com/blog/bounded-contexts-and-subdomains/) - [types](https://blog.jonathanoliver.com/ddd-strategic-design-core-supporting-and-generic-subdomains/)
 
 #### DDD Architectures
 
