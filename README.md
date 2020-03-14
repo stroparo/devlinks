@@ -1,7 +1,7 @@
 # Dev Links
 
-* [#core](#core) - learn core concepts such as coding, architecture etc.
-* [#stacks](#stacks) - development stacks and tools
+* [#core](#core): Learn core concepts such as coding, architecture etc.
+* [#stacks](#stacks): Guides about development stacks and tools
 * [./arch-microservices](arch-microservices.md#microservices-architecture)
 * [./tools](tools.md#tools) - [./vim](vim.md#vim)
 * ./libs - [javascript](libjs.md) - [python](libpython.md) - [ruby](libruby.md)
@@ -30,7 +30,7 @@
 
 ## Core
 
-Learn core concepts about architecture, coding, web etc.
+Learn core concepts such as coding, architecture etc.
 
   - Architecture - [12factor](https://12factor.net) - [DP2e](http://www.ccs.neu.edu/home/matthias/HtDP2e/) - [EAA-patterns](https://martinfowler.com/eaaCatalog/) - [system-design-primer](https://github.com/donnemartin/system-design-primer)
   - Code - [checkio](https://checkio.org/) - [edabit](https://edabit.com/) - [freeCodeCamp](https://www.freecodecamp.org/) - [gitconnected](https://gitconnected.com/learn/) - [roadmap.sh](https://roadmap.sh/)
@@ -44,7 +44,7 @@ Learn core concepts about architecture, coding, web etc.
 
 ## Stacks
 
-Development stacks and tools
+Guides about development stacks and tools
 
 * containers - [Kubernetes](https://auth0.com/blog/kubernetes-tutorial-step-by-step-introduction-to-basic-concepts/) - [Podman](https://developers.redhat.com/blog/2019/01/15/podman-managing-containers-pods/)
 * [Django 2 @freeCodeCamp](https://www.youtube.com/watch?v=YZvRrldjf1Y)
