@@ -37,8 +37,7 @@ Learn core concepts such as coding, architecture etc.
   - Code bootcamps(+jobs) - [coderbyte](https://coderbyte.com/) - [microverse](https://www.microverse.org/) - [pathrise](https://www.pathrise.com/) - [triplebyte](https://triplebyte.com/)
   - Linux - [command-line](https://github.com/jlevy/the-art-of-command-line)/[@floss](http://write.flossmanuals.net/command-line/introduction/) - [@ryans](https://ryanstutorials.net/)
   - [re (regular expressions)](https://www.regular-expressions.info/) - [rexegg](http://www.rexegg.com/)
-  - Web - [google](https://developers.google.com/web/) - **[htmldog](https://www.htmldog.com/)** - [mozilla](https://developer.mozilla.org/docs/Web)
-  - Web::Frontend - [css](http://csstutorial.org/)/[advances](http://learnlayout.com) - **[@masters](https://frontendmasters.com/books/front-end-handbook/2019/)**
+  - Web - [css](http://csstutorial.org/)/[advanced](http://learnlayout.com) - **[@htmldog](https://www.htmldog.com/)** - **[@frontendmasters](mhttps://frontendmasters.com/books/front-end-handbook/2019/)** - [@mozilla](https://developer.mozilla.org/docs/Web)
 
 ---
 
