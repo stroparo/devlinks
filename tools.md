@@ -12,6 +12,7 @@
 * Editor [IntelliJ recommended settings](https://darekkay.com/blog/intellij-idea-settings/)
 * Editor VSCode FOSS [VSCodium](https://vscodium.com/) - [sshcode(r)](https://github.com/cdr/sshcode)
 * Env [direnv](https://direnv.net/) - environment variable management
+* Linting - [coala](https://coala.io/) - sonar[](https://www.sonarqube.org/)
 * Net proxy debug & monitor [Charles](https://www.charlesproxy.com/)
 * REPL Groovy - [console](https://groovyconsole.appspot.com/) - [jdoodle.com](https://www.jdoodle.com/execute-groovy-online) - [playground](https://groovy-playground.appspot.com/) - [tio.run](https://tio.run/#groovy)
 * REPL Python - [fiddle](http://pythonfiddle.com/) - [tutor](http://pythontutor.com/)/[live](http://pythontutor.com/live.html#mode=edit) - [repl.it](https://repl.it/languages/python3)
