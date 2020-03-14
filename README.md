@@ -17,6 +17,7 @@
   - code styles - [css-58b](https://jrl.ninja/etc/1/) - [groovy](http://groovy-lang.org/style-guide.html) - [javascript](https://github.com/standard/standard) - [python](https://pep8.org/) - [ruby](https://github.com/bbatsov/ruby-style-guide) - [shell@google](https://google.github.io/styleguide/shell.xml)
   - libraries - [.io](https://libraries.io/) - [js](http://www.javascripting.com/) - [libhunt](https://libhunt.com/)
   - sec - [index@sonatype](https://ossindex.sonatype.org/) - [owasp](https://owasp.org/)
+  - workflows - [frontend/js](https://marcobotto.com/blog/the-hitchhikers-guide-to-the-modern-front-end-development-workflow/) - [python](https://docs.python-guide.org/)
 
 ---
 

@@ -6,24 +6,18 @@ Software Development Guides, HowTos, Tutorials etc.
 
 * Containers with [Kubernetes](https://auth0.com/blog/kubernetes-tutorial-step-by-step-introduction-to-basic-concepts/)
 * Containers with [Podman](https://developers.redhat.com/blog/2019/01/15/podman-managing-containers-pods/)
-** Stack::Go - [by-example](https://gobyexample.com) - [specs](https://golang.org/ref/spec) - [wiki](https://github.com/golang/go/wiki)
-
----
-
-## Stack::JavaScript
-
-* book [node @mixu](http://book.mixu.net/node/)
-* workflow [Hitchhikers... by @mbotto](https://marcobotto.com/blog/the-hitchhikers-guide-to-the-modern-front-end-development-workflow/)
+* [Django 2 @freeCodeCamp](https://www.youtube.com/watch?v=YZvRrldjf1Y)
+* Go - [by-example](https://gobyexample.com) - [specs](https://golang.org/ref/spec) - [wiki](https://github.com/golang/go/wiki)
+* Js [node book @mixu](http://book.mixu.net/node/)
 
 ---
 
 ## Stack::Python
 
-* lib [django2-@freeCodeCamp](https://www.youtube.com/watch?v=YZvRrldjf1Y)
 * lib [requests](https://realpython.com/python-requests/) for HTTP ops
 * lib [SQL libraries tutorial](https://realpython.com/python-sql-libraries/)
-* ref performance [@pybit.es](https://pybit.es/faster-python.html)
-* ref performance [official](https://wiki.python.org/moin/PythonSpeed/PerformanceTips)/[complexity](https://wiki.python.org/moin/TimeComplexity)
+* performance [@pybit.es](https://pybit.es/faster-python.html)
+* performance [official](https://wiki.python.org/moin/PythonSpeed/PerformanceTips)/[complexity](https://wiki.python.org/moin/TimeComplexity)
 * tips [5 tricks you need to learn today](https://towardsdatascience.com/five-python-tricks-you-need-to-learn-today-9dbe03c790ab)
 
 ---
@@ -31,7 +25,6 @@ Software Development Guides, HowTos, Tutorials etc.
 ## Stack::Ruby
 
 * tips [Rails console](https://pragmaticstudio.com/tutorials/rails-console-shortcuts-tips-tricks)
-* tips [rubyquicktips.com](http://rubyquicktips.com/)
 * tut [rubymonk.com](https://rubymonk.com/)
 
 ---
