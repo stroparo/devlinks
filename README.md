@@ -38,7 +38,7 @@ Learn core concepts such as coding, architecture etc.
   - Linux - [command-line](https://github.com/jlevy/the-art-of-command-line)/[@floss](http://write.flossmanuals.net/command-line/introduction/) - [@ryans](https://ryanstutorials.net/)
   - [re (regular expressions)](https://www.regular-expressions.info/) - [rexegg](http://www.rexegg.com/)
   - Web - [google](https://developers.google.com/web/) - **[htmldog](https://www.htmldog.com/)** - [mozilla](https://developer.mozilla.org/docs/Web)
-  - Web::Frontend - [@masters](https://frontendmasters.com/books/front-end-handbook/2019/) - [css](http://csstutorial.org/) - [learn](http://learnlayout.com)
+  - Web::Frontend - [css](http://csstutorial.org/)/[advances](http://learnlayout.com) - **[@masters](https://frontendmasters.com/books/front-end-handbook/2019/)**
 
 ---
 
