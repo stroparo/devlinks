@@ -4,7 +4,7 @@
 
 * API - [HTTPie](https://httpie.org/doc)
 * CLI - [@terminalsare.sexy](https://terminalsare.sexy/) - [tldr(man)](https://github.com/tldr-pages/tldr)
-* Containers::K8s - [forge](https://forge.sh/)
+* Containers::K8s - [forge](https://forge.sh/) - [minikube](https://minikube.sigs.k8s.io/)
 * Containers::OCI - [buildah](https://buildah.io/) - [podman](https://podman.io/)
 * Data - [chilkat](https://tools.chilkat.io/) - [rishida|r12a](https://r12a.github.io/)
 * Data::DB::clients - [mssql-cli](https://github.com/dbcli/mssql-cli) - [mycli](http://www.mycli.net) - [pgcli](https://www.pgcli.com) - [squirrel](http://www.squirrelsql.org/)
