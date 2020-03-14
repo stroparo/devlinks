@@ -1,6 +1,6 @@
 [index](README.md#dev-links)
 
-# Dev Tools
+# Tools
 
 * API - [HTTPie](https://httpie.org/doc)
 * CLI - [@terminalsare.sexy](https://terminalsare.sexy/) - [tldr(man)](https://github.com/tldr-pages/tldr)

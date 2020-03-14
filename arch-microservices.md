@@ -1,13 +1,4 @@
-# Architecture
-
----
-
-## Design
-
-* [12factor](https://12factor.net)
-* [DP2e](http://www.ccs.neu.edu/home/matthias/HtDP2e/)
-* [EAA-patterns-catalog](https://martinfowler.com/eaaCatalog/)
-* [system-design-primer](https://github.com/donnemartin/system-design-primer)
+# Microservices Architecture
 
 ---
 
