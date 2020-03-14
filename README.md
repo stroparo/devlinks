@@ -8,12 +8,12 @@
 
 ## Resources
 
-* Aggregated - [awesomo](https://github.com/lk-geimfari/awesomo) - [free4dev](https://free-for.dev/#/) - [zero-to-mastery](https://github.com/zero-to-mastery/resources)
-  - libraries - [.io](https://libraries.io/) - [js](http://www.javascripting.com/) - [libhunt](https://libhunt.com/)
+* Aggregated (other dev links repos)- [awesomo](https://github.com/lk-geimfari/awesomo) - [free4dev](https://free-for.dev/#/) - [zero-to-mastery](https://github.com/zero-to-mastery/resources)
 * cheatsheets - [30s](https://www.30secondsofcode.org/) - [devhints](https://devhints.io/bash) - [hyperpolyglot](http://hyperpolyglot.org/) - [js](https://mbeaudru.github.io/modern-js-cheatsheet/)[feats](http://es6-features.org/) - [python](https://www.pythonsheets.com/)
   - tools - [git](https://github.github.com/training-kit/)/[flow](https://danielkummer.github.io/git-flow-cheatsheet/) - [screen](https://kb.iu.edu/d/acuy) - [tmux](https://www.outcoldman.com/cheatsheets/tmux/) - [unixtoolbox](http://cb.vu/unixtoolbox.xhtml) - [vim](http://vimsheet.com/)([tut](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html))/[ack](https://github.com/mileszs/ack.vim#keyboard-shortcuts)/[@jh](https://github.com/jordanhudgens/vim-settings/blob/master/vim-cheat-sheet.md)/[@s](https://gist.github.com/stroparo/e848823768679273e58995f94e2f4049#file-vim-mkd)
   - web - [flexbox](https://darekkay.com/dev/flexbox-cheatsheet.html) - [html](https://htmlcheatsheet.com/) - [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 * code styles - [css-58b](https://jrl.ninja/etc/1/) - [groovy](http://groovy-lang.org/style-guide.html) - [javascript](https://github.com/standard/standard) - [python](https://pep8.org/) - [ruby](https://github.com/bbatsov/ruby-style-guide) - [shell@google](https://google.github.io/styleguide/shell.xml)
+* libraries - [.io](https://libraries.io/) - [js](http://www.javascripting.com/) - [libhunt](https://libhunt.com/)
 * sec - [index@sonatype](https://ossindex.sonatype.org/) - [owasp](https://owasp.org/)
 * workflows - [frontend/js](https://marcobotto.com/blog/the-hitchhikers-guide-to-the-modern-front-end-development-workflow/) - [python](https://docs.python-guide.org/)
 
