@@ -4,38 +4,9 @@
 
 Software Development Guides, HowTos, Tutorials etc.
 
-* Code - [checkio](https://checkio.org/) - [edabit](https://edabit.com/) - [freeCodeCamp](https://www.freecodecamp.org/) - [gitconnected](https://gitconnected.com/learn/)
-* Linux - [@ryans](https://ryanstutorials.net/) - [command-line](https://github.com/jlevy/the-art-of-command-line)/[floss](http://write.flossmanuals.net/command-line/introduction/)
-* [Regular-Expressions](https://www.regular-expressions.info/) - [rexegg](http://www.rexegg.com/)
-* Web - [google](https://developers.google.com/web/) - **[htmldog](https://www.htmldog.com/)** - [mozilla](https://developer.mozilla.org/docs/Web)
-* Web::Frontend - [@grab](https://github.com/grab/front-end-guide) - [@masters](https://frontendmasters.com/books/front-end-handbook/2019/)/[18](https://frontendmasters.com/books/front-end-handbook/2018/) - [css](http://csstutorial.org/) - [learn](http://learnlayout.com)
-
----
-
-## Containers
-
-* [Kubernetes](https://auth0.com/blog/kubernetes-tutorial-step-by-step-introduction-to-basic-concepts/)
-* [Podman](https://developers.redhat.com/blog/2019/01/15/podman-managing-containers-pods/)
-
----
-
-## Stack::Go
-
-* [by-example](https://gobyexample.com)
-* [specs](https://golang.org/ref/spec)
-* [wiki](https://github.com/golang/go/wiki)
-
----
-
-## Stack::Java
-
-* core - [exceptions](https://docs.oracle.com/javase/tutorial/essential/exceptions/runtime.html)
-* core oop - [access](https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html)
-* core types - [downcast(instanceof)](https://www.javatpoint.com/downcasting-with-instanceof-operator)
-* lib [AspectJ](https://www.baeldung.com/aspectj)
-* lib [CompletableFuture](https://www.baeldung.com/java-completablefuture)
-* lib [Log4j](https://www.baeldung.com/log4j2-appenders-layouts-filters) - [@stackify](https://stackify.com/log4j2-java/) - [secrets](https://www.alibabacloud.com/blog/exploring-the-secrets-of-java-logs-log4j-2-log-system_594821)
-* patterns [DTO](https://www.javaguides.net/2018/08/data-transfer-object-design-pattern-in-java.html) - [antipattern!](https://www.yegor256.com/2016/07/06/data-transfer-object.html) - [osgi.org](https://enroute.osgi.org/FAQ/420-dtos.html) - [spring](https://www.baeldung.com/entity-to-and-from-dto-for-a-java-spring-application) - [vs-vo-&-pojo](https://stackoverflow.com/questions/1612334/difference-between-dto-vo-pojo-javabeans)
+* Containers with [Kubernetes](https://auth0.com/blog/kubernetes-tutorial-step-by-step-introduction-to-basic-concepts/)
+* Containers with [Podman](https://developers.redhat.com/blog/2019/01/15/podman-managing-containers-pods/)
+** Stack::Go - [by-example](https://gobyexample.com) - [specs](https://golang.org/ref/spec) - [wiki](https://github.com/golang/go/wiki)
 
 ---
 
@@ -73,9 +44,8 @@ Software Development Guides, HowTos, Tutorials etc.
 
 ## Miscellaneous
 
-#### Security
-
-* [API 31 security tips](https://www.freecodecamp.org/news/31-api-security-tips/)
+* [re (regular expressions)](https://www.regular-expressions.info/) - [rexegg](http://www.rexegg.com/)
+* [sec API 31 security tips](https://www.freecodecamp.org/news/31-api-security-tips/)
 
 ---
 
