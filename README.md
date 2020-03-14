@@ -16,7 +16,7 @@
   - cheat::web - [flexbox](https://darekkay.com/dev/flexbox-cheatsheet.html) - [html](https://htmlcheatsheet.com/) - [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
   - code styles - [css-58b](https://jrl.ninja/etc/1/) - [groovy](http://groovy-lang.org/style-guide.html) - [javascript](https://github.com/standard/standard) - [python](https://pep8.org/) - [ruby](https://github.com/bbatsov/ruby-style-guide) - [shell@google](https://google.github.io/styleguide/shell.xml)
   - libraries - [.io](https://libraries.io/) - [js](http://www.javascripting.com/) - [libhunt](https://libhunt.com/)
-  - sec - [index@sonatype](https://ossindex.sonatype.org/) - owasp[](https://owasp.org/)
+  - sec - [index@sonatype](https://ossindex.sonatype.org/) - [owasp](https://owasp.org/)
 
 ---
 
