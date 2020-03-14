@@ -35,7 +35,7 @@ Learn core concepts such as coding, architecture etc.
   - Architecture - [12factor](https://12factor.net) - [DP2e](http://www.ccs.neu.edu/home/matthias/HtDP2e/) - [EAA-patterns](https://martinfowler.com/eaaCatalog/) - [system-design-primer](https://github.com/donnemartin/system-design-primer)
   - Code - [checkio](https://checkio.org/) - [edabit](https://edabit.com/) - [freeCodeCamp](https://www.freecodecamp.org/) - [gitconnected](https://gitconnected.com/learn/) - [roadmap.sh](https://roadmap.sh/)
   - Code bootcamps(+jobs) - [coderbyte](https://coderbyte.com/) - [microverse](https://www.microverse.org/) - [pathrise](https://www.pathrise.com/) - [triplebyte](https://triplebyte.com/)
-  - Linux - [@ryans](https://ryanstutorials.net/) - [command-line](https://github.com/jlevy/the-art-of-command-line)/[floss](http://write.flossmanuals.net/command-line/introduction/)
+  - Linux - [command-line](https://github.com/jlevy/the-art-of-command-line)/[@floss](http://write.flossmanuals.net/command-line/introduction/) - [@ryans](https://ryanstutorials.net/)
   - [re (regular expressions)](https://www.regular-expressions.info/) - [rexegg](http://www.rexegg.com/)
   - Web - [google](https://developers.google.com/web/) - **[htmldog](https://www.htmldog.com/)** - [mozilla](https://developer.mozilla.org/docs/Web)
   - Web::Frontend - [@masters](https://frontendmasters.com/books/front-end-handbook/2019/) - [css](http://csstutorial.org/) - [learn](http://learnlayout.com)
