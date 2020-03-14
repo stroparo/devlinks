@@ -1,12 +1,10 @@
 # Dev Links
 
 * [#core](#core) - learn core concepts such as coding, architecture etc.
-* [#practice](#practice)
 * [#stacks](#stacks) - development stacks and tools
-* [./microservices](arch-microservices.md#microservices-architecture)
-* [./tools](tools.md#tools)
+* [./arch-microservices](arch-microservices.md#microservices-architecture)
+* [./tools](tools.md#tools) - [./vim](vim.md#vim)
 * ./libs - [javascript](libjs.md) - [python](libpython.md) - [ruby](libruby.md)
-* [./vim](vim.md#vim)
 
 ## Resources
 
