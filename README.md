@@ -8,7 +8,7 @@
 
 ## Resources
 
-* Aggregating repos (link collections like this one):
+* Aggregating repos (more comprehensive link collections than this one):
   - [awesomo](https://github.com/lk-geimfari/awesomo) - [free4dev](https://free-for.dev/#/) - [zero-to-mastery](https://github.com/zero-to-mastery/resources)
 * cheatsheets - [30s](https://www.30secondsofcode.org/) - [devhints](https://devhints.io/bash) - [hyperpolyglot](http://hyperpolyglot.org/) - [js](https://mbeaudru.github.io/modern-js-cheatsheet/)[feats](http://es6-features.org/) - [python](https://www.pythonsheets.com/)
   - tools - [git](https://github.github.com/training-kit/)/[flow](https://danielkummer.github.io/git-flow-cheatsheet/) - [screen](https://kb.iu.edu/d/acuy) - [tmux](https://www.outcoldman.com/cheatsheets/tmux/) - [unixtoolbox](http://cb.vu/unixtoolbox.xhtml) - [vim](http://vimsheet.com/)([tut](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html))/[ack](https://github.com/mileszs/ack.vim#keyboard-shortcuts)/[@jh](https://github.com/jordanhudgens/vim-settings/blob/master/vim-cheat-sheet.md)/[@s](https://gist.github.com/stroparo/e848823768679273e58995f94e2f4049#file-vim-mkd)
