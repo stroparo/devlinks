@@ -92,6 +92,7 @@
 
 * [djamin](https://github.com/hersonls/djamin) django admin style
 * [django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar/)
+* [django-split-settings](https://github.com/sobolevn/django-split-settings)
 
 ---
 
