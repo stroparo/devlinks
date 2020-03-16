@@ -24,8 +24,9 @@
 
 ## [Microservices](https://microservices.io/)
 
-* [A Brief Intro to Microserv. Arch.: what, why, how](https://medium.com/hashmapinc/the-what-why-and-how-of-a-microservices-architecture-4179579423a9)
-* [Break monoliths into microservices](https://martinfowler.com/articles/break-monolith-into-microservices.html)
+* [Intro: A Brief Intro to Microserv. Arch.: what, why, how](https://medium.com/hashmapinc/the-what-why-and-how-of-a-microservices-architecture-4179579423a9)
+* [Intro: Pragmatic Microservices](https://medium.com/microservices-in-practice/microservices-in-practice-7a3e85b6624c)
+* [Migrate: Break monoliths into microservices](https://martinfowler.com/articles/break-monolith-into-microservices.html)
 * [Orchestration ("prefere choreography")](https://www.scalyr.com/blog/orchestrating-microservices-guide-architects/)
 * [Transactions](https://dzone.com/articles/transactions-in-microservices)
 
