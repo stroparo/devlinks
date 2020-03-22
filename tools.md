@@ -8,6 +8,7 @@
 * Containers::OCI - [buildah](https://buildah.io/) - [podman](https://podman.io/)
 * Data - [chilkat](https://tools.chilkat.io/) - [rishida|r12a](https://r12a.github.io/)
 * Data::DB::clients - [mssql-cli](https://github.com/dbcli/mssql-cli) - [mycli](http://www.mycli.net) - [pgcli](https://www.pgcli.com) - [squirrel](http://www.squirrelsql.org/)
+* Data::Formatting - [json-formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en)
 * [DevOps tools | stackify.com](https://stackify.com/top-devops-tools/)
 * Editor [IntelliJ recommended settings](https://darekkay.com/blog/intellij-idea-settings/)
 * Editor VSCode FOSS [VSCodium](https://vscodium.com/) - [sshcode(r)](https://github.com/cdr/sshcode)
