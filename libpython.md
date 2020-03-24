@@ -84,6 +84,7 @@
 
 ## UI - CLI
 
+* [Click](https://click.palletsprojects.com/en/7.x/)
 * [python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit)
 
 ---
