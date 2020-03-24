@@ -5,11 +5,10 @@
 * API - [HTTPie](https://httpie.org/doc)
 * CLI - [@terminalsare.sexy](https://terminalsare.sexy/) - [tldr(man)](https://github.com/tldr-pages/tldr)
 * Containers::K8s - [forge](https://forge.sh/) - [minikube](https://minikube.sigs.k8s.io/)
-* Containers::OCI - [buildah](https://buildah.io/) - [podman](https://podman.io/)
+* Containers::OCI - [buildah](https://buildah.io/) - [podman](https://podman.io/)/[tut](https://developers.redhat.com/blog/2019/01/15/podman-managing-containers-pods/)
 * Data - [chilkat](https://tools.chilkat.io/) - [rishida|r12a](https://r12a.github.io/)
 * Data::DB::clients - [mssql-cli](https://github.com/dbcli/mssql-cli) - [mycli](http://www.mycli.net) - [pgcli](https://www.pgcli.com) - [squirrel](http://www.squirrelsql.org/)
 * Data::Formatting - [json-formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en)
-* [DevOps tools | stackify.com](https://stackify.com/top-devops-tools/)
 * Editor [IntelliJ recommended settings](https://darekkay.com/blog/intellij-idea-settings/)
 * Editor VSCode FOSS [VSCodium](https://vscodium.com/) - [sshcode(r)](https://github.com/cdr/sshcode)
 * Env [direnv](https://direnv.net/) - environment variable management
