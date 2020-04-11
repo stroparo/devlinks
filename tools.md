@@ -3,7 +3,7 @@
 # Tools
 
 * API - [HTTPie](https://httpie.org/doc)
-* CLI - [@terminalsare.sexy](https://terminalsare.sexy/) - [tldr(man)](https://github.com/tldr-pages/tldr)
+* CLI - [MOTD](https://www.putorius.net/custom-motd-login-screen-linux.html) - [terms-sexy](https://terminalsare.sexy/) - [tldr(man)](https://github.com/tldr-pages/tldr)
 * Containers::K8s - [forge](https://forge.sh/) - [minikube](https://minikube.sigs.k8s.io/)
 * Containers::OCI - [buildah](https://buildah.io/) - [podman](https://podman.io/)/[tut](https://developers.redhat.com/blog/2019/01/15/podman-managing-containers-pods/)
 * Data - [chilkat](https://tools.chilkat.io/) - [rishida|r12a](https://r12a.github.io/)
