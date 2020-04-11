@@ -12,7 +12,8 @@
 * Editor [IntelliJ recommended settings](https://darekkay.com/blog/intellij-idea-settings/)
 * Editor VSCode FOSS [VSCodium](https://vscodium.com/) - [sshcode(r)](https://github.com/cdr/sshcode)
 * Env [direnv](https://direnv.net/) - environment variable management
-* Linting - [coala](https://coala.io/) - sonar[](https://www.sonarqube.org/)
+* Linting - [coala](https://coala.io/) - [sonar](https://www.sonarqube.org/)
+* Mon - [zipkin](https://zipkin.io/)
 * Net proxy debug & monitor [Charles](https://www.charlesproxy.com/)
 * Process run - [honcho](https://github.com/nickstenning/honcho)
 * REPL Groovy - [console](https://groovyconsole.appspot.com/) - [jdoodle.com](https://www.jdoodle.com/execute-groovy-online) - [playground](https://groovy-playground.appspot.com/) - [tio.run](https://tio.run/#groovy)
