@@ -4,7 +4,7 @@
 
 * Data - [chilkat](https://tools.chilkat.io/) - [rishida|r12a](https://r12a.github.io/)
 * Linting - [coala](https://coala.io/) - [sonar](https://www.sonarqube.org/)
-* Versioning - [bumpversion](https://github.com/peritus/bumpversion) - [gitignore](https://github.com/github/gitignore) - [gitea (srv)](https://gitea.io/en-us/) - [legit](https://github.com/kennethreitz/legit)
+* Versioning - [bumpversion](https://github.com/peritus/bumpversion) - [gitignore](https://github.com/github/gitignore) - [legit(pip3)](https://github.com/kennethreitz/legit)
 
 ---
 
@@ -33,7 +33,7 @@
 * Containers::K8s - [forge](https://forge.sh/) - [minikube](https://minikube.sigs.k8s.io/) - [okteto(manage)](https://okteto.com/)/[repo](https://github.com/okteto/okteto)
 * Containers::OCI - [buildah](https://buildah.io/) - [podman](https://podman.io/)/[tut](https://developers.redhat.com/blog/2019/01/15/podman-managing-containers-pods/)
 * Env [direnv](https://direnv.net/) - environment variable management
-* Git services - [gogs](https://gogs.io/)/[repo](https://github.com/gogs/gogs)
+* Git services - [gitea](https://gitea.io/en-us/) - [gogs](https://gogs.io/)/[repo](https://github.com/gogs/gogs)
 * Mon - [zipkin](https://zipkin.io/)
 * Net proxy debug & monitor [Charles](https://www.charlesproxy.com/)
 * Process run - [honcho](https://github.com/nickstenning/honcho)
