@@ -2,12 +2,8 @@
 
 # Tools
 
-* API - [HTTPie](https://httpie.org/doc)
 * Data - [chilkat](https://tools.chilkat.io/) - [rishida|r12a](https://r12a.github.io/)
-* Data::DB::clients - [mssql-cli](https://github.com/dbcli/mssql-cli) - [mycli](http://www.mycli.net) - [pgcli](https://www.pgcli.com) - [squirrel](http://www.squirrelsql.org/)
-* Data::Formatting - [json-formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en)
 * Linting - [coala](https://coala.io/) - [sonar](https://www.sonarqube.org/)
-* Stack::Js - [nodejs](https://nodejs.org/en/) - [nvm](https://github.com/creationix/nvm) - [nvm-windows](https://github.com/coreybutler/nvm-windows) - [yarn (dep mgmt)](https://yarnpkg.com/lang/en/) - [yeoman (build & mgmt)](https://yeoman.io/)
 * Versioning - [bumpversion](https://github.com/peritus/bumpversion) - [gitignore](https://github.com/github/gitignore) - [gitea (srv)](https://gitea.io/en-us/) - [legit](https://github.com/kennethreitz/legit)
 
 ---
