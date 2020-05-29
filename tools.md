@@ -5,6 +5,7 @@
 * Data - [chilkat](https://tools.chilkat.io/) - [rishida|r12a](https://r12a.github.io/)
 * Linting - [coala](https://coala.io/) - [sonar](https://www.sonarqube.org/)
 * Versioning - [bumpversion](https://github.com/peritus/bumpversion) - [gitignore](https://github.com/github/gitignore) - [legit(pip3)](https://github.com/kennethreitz/legit)
+* vim learn - [conf](https://github.com/rstacruz/vim-from-scratch) - [hard-way](http://learnvimscriptthehardway.stevelosh.com) - [primer](https://danielmiessler.com/study/vim/) - [why](http://www.viemu.com/a-why-vi-vim.html)
 
 ---
 
