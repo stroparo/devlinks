@@ -1,8 +1,7 @@
 # Dev Links
 
 * [#core](#core): Learn core concepts such as coding, architecture etc.
-* [#stacks](#stacks): Guides about development stacks and tools
-* [./arch-microservices](arch-microservices.md#microservices-architecture)
+* [./architecture](arch.md#architecture)
 * [./tools](tools.md#tools)
 * ./libs - [python](libpython.md) - [ruby](libruby.md)
 * cheatsheets - [30s](https://www.30secondsofcode.org/) - [css58b](https://jrl.ninja/etc/1/) - [devhints](https://devhints.io/bash) - [html](https://htmlcheatsheet.com/) - [hyperpolyglot](http://hyperpolyglot.org/) - [js](https://mbeaudru.github.io/modern-js-cheatsheet/)/[feats](http://es6-features.org/) - [python](https://www.pythonsheets.com/)
