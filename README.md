@@ -4,7 +4,7 @@
 * [#stacks](#stacks): Guides about development stacks and tools
 * [./arch-microservices](arch-microservices.md#microservices-architecture)
 * [./tools](tools.md#tools)
-* ./libs - [javascript](libjs.md) - [python](libpython.md) - [ruby](libruby.md)
+* ./libs - [python](libpython.md) - [ruby](libruby.md)
 * cheatsheets - [30s](https://www.30secondsofcode.org/) - [css58b](https://jrl.ninja/etc/1/) - [devhints](https://devhints.io/bash) - [html](https://htmlcheatsheet.com/) - [hyperpolyglot](http://hyperpolyglot.org/) - [js](https://mbeaudru.github.io/modern-js-cheatsheet/)/[feats](http://es6-features.org/) - [python](https://www.pythonsheets.com/)
   - tools - [git](https://github.github.com/training-kit/)/[flow](https://danielkummer.github.io/git-flow-cheatsheet/) - [screen](https://kb.iu.edu/d/acuy) - [tmux](https://www.outcoldman.com/cheatsheets/tmux/) - [unixtoolbox](http://cb.vu/unixtoolbox.xhtml) - [vim](http://vimsheet.com/)([tut](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html))/[ack](https://github.com/mileszs/ack.vim#keyboard-shortcuts)/[@jh](https://github.com/jordanhudgens/vim-settings/blob/master/vim-cheat-sheet.md)/[@s](https://gist.github.com/stroparo/e848823768679273e58995f94e2f4049#file-vim-mkd)
 * code styles - [groovy](http://groovy-lang.org/style-guide.html) - [javascript](https://github.com/standard/standard) - [python](https://pep8.org/) - [ruby](https://github.com/bbatsov/ruby-style-guide) - [shell@google](https://google.github.io/styleguide/shell.xml)
@@ -26,11 +26,12 @@
 
 Learn core concepts such as coding, architecture etc.
 
-  - Architecture - [12factor](https://12factor.net) - [DP2e](http://www.ccs.neu.edu/home/matthias/HtDP2e/) - [EAA-patterns](https://martinfowler.com/eaaCatalog/) - [system-design-primer](https://github.com/donnemartin/system-design-primer)
-  - Code - [checkio](https://checkio.org/) - [edabit](https://edabit.com/) - [freeCodeCamp](https://www.freecodecamp.org/) - [gitconnected](https://gitconnected.com/learn/) - [roadmap.sh](https://roadmap.sh/)
-  - Code bootcamps(+jobs) - [coderbyte](https://coderbyte.com/) - [microverse](https://www.microverse.org/) - [pathrise](https://www.pathrise.com/) - [triplebyte](https://triplebyte.com/)
-  - Linux - [art-of-command-line(quick)](https://github.com/jlevy/the-art-of-command-line) - **[@flossmanuals](http://write.flossmanuals.net/command-line/introduction/)** - [@ryans](https://ryanstutorials.net/)
-  - [re (regular expressions)](https://www.regular-expressions.info/) - [rexegg](http://www.rexegg.com/)
-  - Web - **[@frontendmasters](https://frontendmasters.com/books/front-end-handbook/2019/)** - **[@htmldog](https://www.htmldog.com/)** - [@mozilla](https://developer.mozilla.org/docs/Web)
+* Architecture - [12factor](https://12factor.net) - [DP2e](http://www.ccs.neu.edu/home/matthias/HtDP2e/) - [EAA-patterns](https://martinfowler.com/eaaCatalog/) - [system-design-primer](https://github.com/donnemartin/system-design-primer)
+* Code - [checkio](https://checkio.org/) - [edabit](https://edabit.com/) - [freeCodeCamp](https://www.freecodecamp.org/) - [gitconnected](https://gitconnected.com/learn/) - [roadmap.sh](https://roadmap.sh/)
+* Code bootcamps(+jobs) - [coderbyte](https://coderbyte.com/) - [microverse](https://www.microverse.org/) - [pathrise](https://www.pathrise.com/) - [triplebyte](https://triplebyte.com/)
+* Linux - [art-of-command-line(quick)](https://github.com/jlevy/the-art-of-command-line) - **[@flossmanuals](http://write.flossmanuals.net/command-line/introduction/)** - [@ryans](https://ryanstutorials.net/)
+* [re (regular expressions)](https://www.regular-expressions.info/) - [rexegg](http://www.rexegg.com/)
+* Vim - [hard-way](http://learnvimscriptthehardway.stevelosh.com) - [primer](https://danielmiessler.com/study/vim/) - [why](http://www.viemu.com/a-why-vi-vim.html)
+* Web - **[@frontendmasters](https://frontendmasters.com/books/front-end-handbook/2019/)** - **[@htmldog](https://www.htmldog.com/)** - [@mozilla](https://developer.mozilla.org/docs/Web)
 
 ---
