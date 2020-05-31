@@ -26,7 +26,7 @@
 
 Learn core concepts such as coding, architecture etc.
 
-* Architecture - [12factor](https://12factor.net) - [DP2e](http://www.ccs.neu.edu/home/matthias/HtDP2e/) - [EAA-patterns](https://martinfowler.com/eaaCatalog/) - [system-design-primer](https://github.com/donnemartin/system-design-primer)
+* Architecture - [12factor](https://12factor.net) - [design-primer](https://github.com/donnemartin/system-design-primer) - [DP2e](http://www.ccs.neu.edu/home/matthias/HtDP2e/) - [enterprise](https://martinfowler.com/eaaCatalog/)
 * Code - [checkio](https://checkio.org/) - [edabit](https://edabit.com/) - [freeCodeCamp](https://www.freecodecamp.org/) - [gitconnected](https://gitconnected.com/learn/) - [roadmap.sh](https://roadmap.sh/)
 * Code bootcamps(+jobs) - [coderbyte](https://coderbyte.com/) - [microverse](https://www.microverse.org/) - [pathrise](https://www.pathrise.com/) - [triplebyte](https://triplebyte.com/)
 * Linux - [art-of-command-line(quick)](https://github.com/jlevy/the-art-of-command-line) - **[@flossmanuals](http://write.flossmanuals.net/command-line/introduction/)** - [@ryans](https://ryanstutorials.net/)
