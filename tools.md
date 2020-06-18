@@ -3,7 +3,6 @@
 # Tools
 
 * Data - [chilkat](https://tools.chilkat.io/) - [rishida|r12a](https://r12a.github.io/)
-* Linting - [coala](https://coala.io/) - [sonar](https://www.sonarqube.org/)
 * Versioning - [bumpversion](https://github.com/peritus/bumpversion) - [gitignore](https://github.com/github/gitignore) - [legit(pip3)](https://github.com/kennethreitz/legit) - [pre-commit(hooks)](https://pre-commit.com/)
 
 ---
@@ -14,6 +13,11 @@
 * Editor [VSCodium](https://vscodium.com/) - [docs](https://github.com/VSCodium/vscodium/blob/master/DOCS.md)/[ssh](https://code.visualstudio.com/docs/remote/ssh) - [sshcode(r)](https://github.com/cdr/sshcode)
 * REPL Groovy - [console](https://groovyconsole.appspot.com/) - [jdoodle.com](https://www.jdoodle.com/execute-groovy-online) - [playground](https://groovy-playground.appspot.com/) - [tio.run](https://tio.run/#groovy)
 * REPL Python - [fiddle](http://pythonfiddle.com/) - [tutor](http://pythontutor.com/)/[live](http://pythontutor.com/live.html#mode=edit) - [repl.it](https://repl.it/languages/python3)
+
+### Linting
+
+* [coala](https://coala.io/)
+* [sonar](https://www.sonarqube.org/)
 
 ---
 
