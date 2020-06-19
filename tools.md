@@ -39,7 +39,7 @@
 * Monitor::Tracing - [zipkin](https://zipkin.io/)
 * Net proxy debug & monitor [Charles](https://www.charlesproxy.com/)
 * Process run - [honcho](https://github.com/nickstenning/honcho)
-* Serve::Git - [gitea](https://gitea.io/en-us/) - [gogs](https://gogs.io/)/[repo](https://github.com/gogs/gogs)
+* Service::Git - [gitea](https://gitea.io/en-us/) - [gogs](https://gogs.io/)/[repo](https://github.com/gogs/gogs)
 * Tools::CLI - [MOTD](https://www.putorius.net/custom-motd-login-screen-linux.html) - [terms-sexy](https://terminalsare.sexy/) - [tilix-term](https://gnunn1.github.io/tilix-web/) - [tldr(man)](https://github.com/tldr-pages/tldr)
 
 ---
