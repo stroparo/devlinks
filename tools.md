@@ -3,7 +3,9 @@
 # Tools
 
 * Data - [chilkat](https://tools.chilkat.io/) - [rishida|r12a](https://r12a.github.io/)
+* Generators - hmac-sha256
 * Versioning - [bumpversion](https://github.com/peritus/bumpversion) - [gitignore](https://github.com/github/gitignore) - [legit(pip3)](https://github.com/kennethreitz/legit) - [pre-commit(hooks)](https://pre-commit.com/)
+  - [git for windows](https://gitforwindows.org/) - [@git-scm](https://git-scm.com/download/win) - [extensions](https://github.com/gitextensions/gitextensions#downloads)
 
 ---
 
@@ -39,7 +41,10 @@
 * Monitor::Tracing - [zipkin](https://zipkin.io/)
 * Net proxy debug & monitor [Charles](https://www.charlesproxy.com/)
 * Process run - [honcho](https://github.com/nickstenning/honcho)
-* Service::Git - [gitea](https://gitea.io/en-us/) - [gogs](https://gogs.io/)/[repo](https://github.com/gogs/gogs)
 * Tools::CLI - [MOTD](https://www.putorius.net/custom-motd-login-screen-linux.html) - [terms-sexy](https://terminalsare.sexy/) - [tilix-term](https://gnunn1.github.io/tilix-web/) - [tldr(man)](https://github.com/tldr-pages/tldr)
+
+### Services
+
+* Git - [gitea](https://gitea.io/en-us/) - [gogs](https://gogs.io/)/[repo](https://github.com/gogs/gogs)
 
 ---
