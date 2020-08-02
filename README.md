@@ -4,6 +4,7 @@
 * [./architecture](arch.md#architecture)
 * [./tools](tools.md#tools)
 * ./libs - [python](libpython.md) - [ruby](libruby.md)
+* [apps(non-devel)](https://www.notion.so/Apps-a0911d71491446678fb3c3a8233cbe5b)
 * cheatsheets - [30s](https://www.30secondsofcode.org/) - [css58b](https://jrl.ninja/etc/1/) - [devhints](https://devhints.io/bash) - [html](https://htmlcheatsheet.com/) - [hyperpolyglot](http://hyperpolyglot.org/) - [js](https://mbeaudru.github.io/modern-js-cheatsheet/)/[feats](http://es6-features.org/) - [python](https://www.pythonsheets.com/)
   - tools - [git](https://github.github.com/training-kit/)/[flow](https://danielkummer.github.io/git-flow-cheatsheet/) - [screen](https://kb.iu.edu/d/acuy) - [tmux](https://www.outcoldman.com/cheatsheets/tmux/) - [unixtoolbox](http://cb.vu/unixtoolbox.xhtml) - [vim](http://vimsheet.com/)([tut](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html))/[ack](https://github.com/mileszs/ack.vim#keyboard-shortcuts)/[@jh](https://github.com/jordanhudgens/vim-settings/blob/master/vim-cheat-sheet.md)/[@s](https://gist.github.com/stroparo/e848823768679273e58995f94e2f4049#file-vim-mkd)
 * code styles - [groovy](http://groovy-lang.org/style-guide.html) - [python](https://pep8.org/) - [ruby](https://rubystyle.guide/) - [shell@google](https://google.github.io/styleguide/shell.xml)

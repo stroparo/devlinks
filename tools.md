@@ -1,5 +1,7 @@
 [index](README.md#dev-links)
 
+* [Apps for other than coding & development](https://www.notion.so/Apps-a0911d71491446678fb3c3a8233cbe5b)
+
 # Tools
 
 * Data - [chilkat](https://tools.chilkat.io/) - [rishida|r12a](https://r12a.github.io/)
