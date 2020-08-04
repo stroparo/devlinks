@@ -13,6 +13,7 @@
 
 ## Editors / IDEs
 
+* Editor Eclipse - [darkestdark](https://marketplace.eclipse.org/content/darkest-dark-theme-devstyle) - [sonarlint](https://marketplace.eclipse.org/content/sonarlint)
 * Editor [IntelliJ recommended settings](https://darekkay.com/blog/intellij-idea-settings/)
 * Editor [VSCodium](https://vscodium.com/) - [docs](https://github.com/VSCodium/vscodium/blob/master/DOCS.md)/[ssh](https://code.visualstudio.com/docs/remote/ssh) - [sshcode(r)](https://github.com/cdr/sshcode)
 * REPL Groovy - [console](https://groovyconsole.appspot.com/) - [jdoodle.com](https://www.jdoodle.com/execute-groovy-online) - [playground](https://groovy-playground.appspot.com/) - [tio.run](https://tio.run/#groovy)
