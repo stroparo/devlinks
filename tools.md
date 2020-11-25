@@ -7,6 +7,7 @@
 * Data - [chilkat](https://tools.chilkat.io/) - [rishida|r12a](https://r12a.github.io/)
 * Versioning - [bumpversion](https://github.com/peritus/bumpversion) - [gitignore](https://github.com/github/gitignore) - [legit(pip3)](https://github.com/kennethreitz/legit) - [pre-commit(hooks)](https://pre-commit.com/)
   - [git for windows](https://gitforwindows.org/) - [@git-scm](https://git-scm.com/download/win) - [extensions](https://github.com/gitextensions/gitextensions#downloads)
+  - github - [refined](https://github.com/sindresorhus/refined-github)
 
 ---
 
@@ -27,13 +28,14 @@
 
 ## Front-end
 
-* [ttytoolkit (CLI devel)](https://ttytoolkit.org/)
+* cli devel - [ttytoolkit](https://ttytoolkit.org/)
 
 ### Assets
 
 * [@jonas web resources](http://codingheroes.io/resources/)
 * Bootstrap themes - [@fresh](https://freshdesignweb.com/free-bootstrap-templates/) - [@start](https://startbootstrap.com/)
 * icons - [free](https://icon-library.net/)
+* React - [kit](https://blog.logrocket.com/top-7-ui-libraries-and-kits-for-react/)
 * textures - [toptal](https://www.toptal.com/designers/subtlepatterns/)
 
 ---
