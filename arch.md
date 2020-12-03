@@ -3,7 +3,7 @@
 * [DDD 10min tutorial](https://hackernoon.com/clean-domain-driven-design-in-10-minutes-6037a59c8b7b)
 * DDD::[data](https://medium.com/@danielsomerfield/domain-driven-design-in-data-engineering-442be7a0705b)
 * DDD::[FAQ - cqrs.nu](https://cqrs.nu/Faq)
-* DDD::subdomains - [ddd-basics](https://vladikk.com/2018/01/26/revisiting-the-basics-of-ddd/) - [phrasing...](https://robertbasic.com/blog/bounded-contexts-and-subdomains/) - [types](https://blog.jonathanoliver.com/ddd-strategic-design-core-supporting-and-generic-subdomains/)
+* DDD::subdomains - [ddd-basics](https://vladikk.com/2018/01/26/revisiting-the-basics-of-ddd/) - [phrasing...](https://robertbasic.com/blog/bounded-contexts-and-subdomains/) - [types](https://blog.jonathanoliver.com/ddd-strategic-design-core-supporting-and-generic-subdomains/)(2009 and still current)
 * [hexagonal](https://blog.octo.com/en/hexagonal-architecture-three-principles-and-an-implementation-example/)
 * [hexagonal, stateless](https://vaadin.com/learn/tutorials/ddd/ddd_and_hexagonal)
 * Web Apps - [BEM](http://getbem.com/introduction/) - [immutable](https://immutablewebapps.org/) - [JAMstack](https://jamstack.org)
