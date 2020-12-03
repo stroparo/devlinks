@@ -1,7 +1,8 @@
 # Dev Links
 
+Links starting with "./" are subpages in this repository itself.
+
 * [#core](#core): Learn core concepts such as coding, architecture etc. (link to section below)
-* [./architecture](arch.md#architecture)
 * [./books](books.md#dev-books)
 * [./courses](courses-free.md#dev-courses-for-free) - dev courses for free!
 * [./tools](tools.md#tools)
@@ -27,6 +28,7 @@
 
 Learn core concepts such as coding, architecture etc.
 
+* [./Architecture](arch.md#architecture)
 * Architecture - [12factor](https://12factor.net) - [design-primer](https://github.com/donnemartin/system-design-primer) - [DP2e](http://www.ccs.neu.edu/home/matthias/HtDP2e/) - [enterprise](https://martinfowler.com/eaaCatalog/)
 * Code - [freeCodeCamp](https://www.freecodecamp.org/) - [gitconnected](https://gitconnected.com/learn/) - [roadmap.sh](https://roadmap.sh/) - [rust](https://rust-unofficial.github.io/too-many-lists/)
 * Linux - [art-of-command-line(quick)](https://github.com/jlevy/the-art-of-command-line) - **[@flossmanuals](http://write.flossmanuals.net/command-line/introduction/)** - [@ryans](https://ryanstutorials.net/)
