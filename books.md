@@ -22,20 +22,7 @@
 
 ---
 
-## Code - Stacks - Libraries, Frameworks etc.
-
-* C++ - [boost](https://theboostcpplibraries.com/)
-
----
-
-## Code - Systems Programming
-
-* [Linux Containers & Virtualization](https://www.apress.com/br/book/9781484262825#)(\$)
-* [Linux Kernel](https://leanpub.com/linuxkernel)(\$)
-
----
-
-## Code - Programming - Languages, Basic Software & Platforms
+## Code - Stacks - Languages, Basic Software & Platforms
 
 * Asorted - [c#](https://en.wikibooks.org/wiki/C_Sharp_Programming) - [go](https://www.openmymind.net/The-Little-Go-Book/) - [groovy](https://leanpub.com/groovytutorial/read)
 * C - [Beej's](https://beej.us/guide/bgc/) - [C manual (GNU)](https://www.gnu.org/software/gnu-c-manual/) - [gcc-intro(pdf)](https://www.linuxlinks.com/wp-content/uploads/2019/07/An_Introduction_to_GCC-Brian_Gough.pdf) - [modern-c(gustedt)](https://modernc.gforge.inria.fr/)
@@ -47,6 +34,19 @@
 * Ruby (www) - [enough(just)](http://jasonkim.ca/projects/just_enough_ruby_to_get_by/) - [launchschool](https://launchschool.com/books/ruby) - [wikibook](https://en.wikibooks.org/wiki/Ruby_Programming)
 * [Rust](https://doc.rust-lang.org/book/) (www) - [by-example](https://doc.rust-lang.org/stable/rust-by-example/) - [by-linked-lists](https://rust-unofficial.github.io/too-many-lists/) - [embedded](https://rust-embedded.github.io/book/intro/) - [reference](https://doc.rust-lang.org/stable/reference/)
 * Shell - [awk](https://www.grymoire.com/Unix/Awk.html)/[wiki](https://en.wikibooks.org/wiki/An_Awk_Primer) - [bash](https://guide.bash.academy/)
+
+---
+
+## Code - Stacks - Libraries, Frameworks etc.
+
+* C++ - [boost](https://theboostcpplibraries.com/)
+
+---
+
+## Code - Systems Programming
+
+* [Linux Containers & Virtualization](https://www.apress.com/br/book/9781484262825#)(\$)
+* [Linux Kernel](https://leanpub.com/linuxkernel)(\$)
 
 ---
 
