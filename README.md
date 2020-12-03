@@ -3,8 +3,6 @@
 Links starting with "./" are subpages in this repository itself.
 
 * [#core](#core): Learn core concepts such as coding, architecture etc. (link to section below)
-* [./books](books.md#dev-books)
-* [./courses](courses-free.md#dev-courses-for-free)
 * [./libpython](libpython.md#python-libraries)
 * [./tools](tools.md#tools) - [apps(non-dev)](https://www.notion.so/Apps-a0911d71491446678fb3c3a8233cbe5b)
 * cheatsheets - [30s](https://www.30secondsofcode.org/) - [css58b](https://jrl.ninja/etc/1/) - [devhints](https://devhints.io/bash) - [html](https://htmlcheatsheet.com/) - [hyperpolyglot](http://hyperpolyglot.org/) - [js](https://mbeaudru.github.io/modern-js-cheatsheet/)/[feats](http://es6-features.org/) - [python](https://www.pythonsheets.com/)
@@ -24,13 +22,17 @@ Links starting with "./" are subpages in this repository itself.
 
 ---
 
-## Core
+## Learn
 
-Learn core concepts such as coding, architecture etc.
+Learn software development concepts and technology stacks.
+
+[Developer Roadmaps](https://roadmap.sh/)  
+Tutorials - [gitconnected](https://gitconnected.com/learn/) - [99guru](https://www.guru99.com/)  
 
 * [./Architecture](arch.md#architecture)
+* [./Books](books.md#dev-books)
+* [./Courses for free](courses-free.md#dev-courses-for-free)
 * Architecture - [12factor](https://12factor.net) - [design-primer](https://github.com/donnemartin/system-design-primer) - [DP2e](http://www.ccs.neu.edu/home/matthias/HtDP2e/) - [enterprise](https://martinfowler.com/eaaCatalog/)
-* Code - [freeCodeCamp](https://www.freecodecamp.org/) - [gitconnected](https://gitconnected.com/learn/) - [roadmap.sh](https://roadmap.sh/) - [rust](https://rust-unofficial.github.io/too-many-lists/)
 * Linux - [art-of-command-line(quick)](https://github.com/jlevy/the-art-of-command-line) - **[@flossmanuals](http://write.flossmanuals.net/command-line/introduction/)** - [@ryans](https://ryanstutorials.net/)
 * [re (regular expressions)](https://www.regular-expressions.info/) - [rexegg](http://www.rexegg.com/)
 * Vim - [hard-way](http://learnvimscriptthehardway.stevelosh.com) - [primer](https://danielmiessler.com/study/vim/) - [why](http://www.viemu.com/a-why-vi-vim.html)
