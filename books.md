@@ -2,14 +2,8 @@
 
 # Dev Books
 
+* [./Architecture](arch.md#books)
 * [Essential Programming Books](https://www.programming-books.io/)
-
----
-
-## Architecture
-
-* DDD - [15years](https://leanpub.com/ddd_first_15_years) - [distilled](https://www.informit.com/store/domain-driven-design-distilled-9780134434421)(\$) - [event-storming](https://leanpub.com/introducing_eventstorming)(\$)
-* [Legacy Systems](https://leanpub.com/WorkingWithLegacySystems)(\$)
 
 ---
 
