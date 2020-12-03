@@ -1,3 +1,5 @@
+[index](README.md#dev-links)
+
 # Dev Courses for Free
 
 ## Infra

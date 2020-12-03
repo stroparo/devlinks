@@ -4,9 +4,9 @@ Links starting with "./" are subpages in this repository itself.
 
 * [#core](#core): Learn core concepts such as coding, architecture etc. (link to section below)
 * [./books](books.md#dev-books)
-* [./courses](courses-free.md#dev-courses-for-free) - dev courses for free!
-* [./tools](tools.md#tools)
-* [apps(non-devel)](https://www.notion.so/Apps-a0911d71491446678fb3c3a8233cbe5b)
+* [./courses](courses-free.md#dev-courses-for-free)
+* [./libpython](libpython.md#python-libraries)
+* [./tools](tools.md#tools) - [apps(non-dev)](https://www.notion.so/Apps-a0911d71491446678fb3c3a8233cbe5b)
 * cheatsheets - [30s](https://www.30secondsofcode.org/) - [css58b](https://jrl.ninja/etc/1/) - [devhints](https://devhints.io/bash) - [html](https://htmlcheatsheet.com/) - [hyperpolyglot](http://hyperpolyglot.org/) - [js](https://mbeaudru.github.io/modern-js-cheatsheet/)/[feats](http://es6-features.org/) - [python](https://www.pythonsheets.com/)
   - tools - [git](https://github.github.com/training-kit/)/[flow](https://danielkummer.github.io/git-flow-cheatsheet/) - [screen](https://kb.iu.edu/d/acuy) - [tmux](https://www.outcoldman.com/cheatsheets/tmux/) - [unixtoolbox](http://cb.vu/unixtoolbox.xhtml) - [vim](http://vimsheet.com/)([tut](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html))/[ack](https://github.com/mileszs/ack.vim#keyboard-shortcuts)/[@jh](https://github.com/jordanhudgens/vim-settings/blob/master/vim-cheat-sheet.md)/[@s](https://gist.github.com/stroparo/e848823768679273e58995f94e2f4049#file-vim-mkd)
 * code styles - [groovy](http://groovy-lang.org/style-guide.html) - [python](https://pep8.org/) - [ruby](https://rubystyle.guide/) - [shell@google](https://google.github.io/styleguide/shell.xml)
@@ -17,9 +17,9 @@ Links starting with "./" are subpages in this repository itself.
 
 ## Practice
 
-* Challenges - **[advent](http://adventofcode.com/)** - [codewars](https://www.codewars.com/) - [euler](https://projecteuler.net) - [hackerrank](https://www.hackerrank.com/)
-* Apps to code - [180websites](https://zube.io/blog/how-i-built-180-websites-in-180-days-and-became-a-yc-fellowship-founder/) - [ideas](https://github.com/florinpop17/app-ideas)
-* Stack::Js - [jsfight.club](https://jsfight.club/) - [warriorjs](https://warriorjs.com/)
+* Apps ideas - [180sites-180days](https://zube.io/blog/how-i-built-180-websites-in-180-days-and-became-a-yc-fellowship-founder/) - [@florinpop17](https://github.com/florinpop17/app-ideas)
+* Challenges - **[advent](http://adventofcode.com/)** - [codewars](https://www.codewars.com/) - [euler](https://projecteuler.net) - [hackerrank](https://www.hackerrank.com/) - [warriorjs](https://warriorjs.com/)
+* Battle - [jsfight.club](https://jsfight.club/)
 * Stack::Python - [interactive](https://github.com/donnemartin/interactive-coding-challenges#interactive-coding-challenges) - [practice](http://www.practicepython.org/) - [pybites](https://pybit.es/pages/challenges.html)
 
 ---
