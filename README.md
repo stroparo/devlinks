@@ -1,6 +1,6 @@
 # Dev Links
 
-* [#core](#core): Learn core concepts such as coding, architecture etc.
+* [#core](#core): Learn core concepts such as coding, architecture etc. (link to section below)
 * [./architecture](arch.md#architecture)
 * [./tools](tools.md#tools)
 * ./libs - [python](libpython.md) - [ruby](libruby.md)
