@@ -2,7 +2,6 @@
 
 Links starting with "./" are subpages in this repository itself.
 
-* [#core](#core): Learn core concepts such as coding, architecture etc. (link to section below)
 * [./libpython](libpython.md#python-libraries)
 * [./tools](tools.md#tools) - [apps(non-dev)](https://www.notion.so/Apps-a0911d71491446678fb3c3a8233cbe5b)
 * cheatsheets - [30s](https://www.30secondsofcode.org/) - [css58b](https://jrl.ninja/etc/1/) - [devhints](https://devhints.io/bash) - [html](https://htmlcheatsheet.com/) - [hyperpolyglot](http://hyperpolyglot.org/) - [js](https://mbeaudru.github.io/modern-js-cheatsheet/)/[feats](http://es6-features.org/) - [python](https://www.pythonsheets.com/)
