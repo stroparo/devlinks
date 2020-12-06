@@ -11,6 +11,7 @@
 
 * [Django REST Swagger](https://django-rest-swagger.readthedocs.io/en/latest/)
 * [Falcon web APIs](https://falcon.readthedocs.io/en/stable/)
+* [FastAPI](https://fastapi.tiangolo.com/)
 * [Flasgger](https://github.com/rochacbruno/flasgger) flask + swagger
 * [Requests](http://docs.python-requests.org/)
 

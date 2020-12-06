@@ -29,6 +29,7 @@
 ## Front-end
 
 * cli devel - [ttytoolkit](https://ttytoolkit.org/)
+* dotnet - [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
 
 ### Assets
 

@@ -3,16 +3,27 @@
 * [DDD 10min tutorial](https://hackernoon.com/clean-domain-driven-design-in-10-minutes-6037a59c8b7b)
 * DDD::[data](https://medium.com/@danielsomerfield/domain-driven-design-in-data-engineering-442be7a0705b)
 * DDD::[FAQ - cqrs.nu](https://cqrs.nu/Faq)
-* DDD::subdomains - [ddd-basics](https://vladikk.com/2018/01/26/revisiting-the-basics-of-ddd/) - [phrasing...](https://robertbasic.com/blog/bounded-contexts-and-subdomains/) - [types](https://blog.jonathanoliver.com/ddd-strategic-design-core-supporting-and-generic-subdomains/)
+* DDD::subdomains - [ddd-basics](https://vladikk.com/2018/01/26/revisiting-the-basics-of-ddd/) - [phrasing...](https://robertbasic.com/blog/bounded-contexts-and-subdomains/) - [types](https://blog.jonathanoliver.com/ddd-strategic-design-core-supporting-and-generic-subdomains/)(2009 and still current)
 * [hexagonal](https://blog.octo.com/en/hexagonal-architecture-three-principles-and-an-implementation-example/)
 * [hexagonal, stateless](https://vaadin.com/learn/tutorials/ddd/ddd_and_hexagonal)
 * Web Apps - [BEM](http://getbem.com/introduction/) - [immutable](https://immutablewebapps.org/) - [JAMstack](https://jamstack.org)
+
+---
+
+## Books
+
+* DDD - [15years](https://leanpub.com/ddd_first_15_years) - [distilled](https://www.informit.com/store/domain-driven-design-distilled-9780134434421)(\$) - [event-storming](https://leanpub.com/introducing_eventstorming)(\$)
+* [Legacy Systems](https://leanpub.com/WorkingWithLegacySystems)(\$)
+
+---
 
 ## DDD Patterns
 
 * [avoid anemic domain model](https://hackernoon.com/how-to-avoid-anemic-domain-model-5e1c3e6fe4d0)
 * [bounded-context definition patterns](https://codeburst.io/ddd-strategic-patterns-how-to-define-bounded-contexts-2dc70927976e)
 * [event storming to achieve DDD](https://techbeacon.com/devops/introduction-event-storming-easy-way-achieve-domain-driven-design)
+
+---
 
 ## [Microservices](https://microservices.io/)
 
@@ -21,3 +32,5 @@
 * [Migrate: Break monoliths into microservices](https://martinfowler.com/articles/break-monolith-into-microservices.html)
 * [Orchestration ("prefere choreography")](https://www.scalyr.com/blog/orchestrating-microservices-guide-architects/)
 * [Transactions](https://dzone.com/articles/transactions-in-microservices)
+
+---
