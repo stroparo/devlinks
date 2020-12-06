@@ -1,6 +1,6 @@
 [index](README.md#dev-links)
 
-# Dev Courses for Free
+# Dev Courses
 
 * [freeCodeCamp](https://www.freecodecamp.org/) - full-stack development, with certificates
 
