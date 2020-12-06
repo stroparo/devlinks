@@ -33,6 +33,7 @@ Tutorials - [99guru](https://www.guru99.com/) - [gitconnected](https://gitconnec
 ### Architecture
 
 * [12 Factor App](https://12factor.net)
+* [API Design Best Practices](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/)
 * [Design Primer](https://github.com/donnemartin/system-design-primer)
 * [DP2e - How To Design Programs 2e](https://htdp.org/2020-8-1/Book/)
 * [EAA - Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
