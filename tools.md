@@ -4,7 +4,8 @@
 
 # Tools
 
-* Data - [chilkat](https://tools.chilkat.io/) - [rishida|r12a](https://r12a.github.io/)
+* Data formatting - [chilkat](https://tools.chilkat.io/) - [rishida|r12a](https://r12a.github.io/)
+* Databases tools - [PostgreSQL](https://www.enterprisedb.com/blog/top-tools-manage-postgres-enterprise-administration-performance-high-availability-and)
 * Versioning - [bumpversion](https://github.com/peritus/bumpversion) - [gitignore](https://github.com/github/gitignore) - [legit(pip3)](https://github.com/kennethreitz/legit) - [pre-commit(hooks)](https://pre-commit.com/)
   - [git for windows](https://gitforwindows.org/) - [@git-scm](https://git-scm.com/download/win) - [extensions](https://github.com/gitextensions/gitextensions#downloads)
   - github - [refined](https://github.com/sindresorhus/refined-github)
@@ -23,6 +24,7 @@
 
 * [coala](https://coala.io/)
 * [sonar](https://www.sonarqube.org/)
+* [w3c validator](https://validator.w3.org/#validate_by_input)
 
 ---
 
@@ -52,7 +54,7 @@
 ## Ops / Infra / Config management / CI/CD / DevOps
 
 * Conf::Env [direnv](https://direnv.net/) - environment variable management
-* Containers::K8s - [forge](https://forge.sh/) - [minikube](https://minikube.sigs.k8s.io/) - [okteto(manage)](https://okteto.com/)/[repo](https://github.com/okteto/okteto)
+* Containers::K8s - [forge](https://forge.sh/) - [microk8s](https://microk8s.io/) - [minikube](https://minikube.sigs.k8s.io/) - [okteto(manage)](https://okteto.com/)/[repo](https://github.com/okteto/okteto)
 * Containers::OCI - [buildah](https://buildah.io/) - [podman](https://podman.io/)/[tut](https://developers.redhat.com/blog/2019/01/15/podman-managing-containers-pods/)
 * Deploy::SSH - [shipit](https://github.com/sapegin/shipit)
 * Monitor::Tracing - [zipkin](https://zipkin.io/)
