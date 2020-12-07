@@ -54,6 +54,7 @@ Tutorials - [99guru](https://www.guru99.com/) - [gitconnected](https://gitconnec
 
 ### Infra - SRE / SysAdmin - DevOps, SysOps, TechOps etc.
 
+* Kubernetes - [patterns](https://developers.redhat.com/blog/2020/05/11/top-10-must-know-kubernetes-design-patterns/)
 * Linux shell - [art-of-command-line(quick)](https://github.com/jlevy/the-art-of-command-line) - **[@flossmanuals](http://write.flossmanuals.net/command-line/introduction/)** - [@ryans](https://ryanstutorials.net/)
 * [Unix Workbench](https://leanpub.com/unix) book
 
