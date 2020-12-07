@@ -38,6 +38,7 @@ Tutorials - [99guru](https://www.guru99.com/) - [gitconnected](https://gitconnec
 * [DP2e - How To Design Programs 2e](https://htdp.org/2020-8-1/Book/)
 * [EAA - Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
 * [Example of Clean Architecture](https://medium.com/tech-at-wildlife-studios/write-backend-systems-50aae8db849e)
+* [RESTful APIs in a Nutshell](https://medium.com/@lucasamonrc/restful-apis-in-a-nutshell-ba7cd50811af)
 
 ### Craft - Algorithms, Paradigms, Techniques etc.
 
