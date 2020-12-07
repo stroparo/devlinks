@@ -37,6 +37,7 @@ Tutorials - [99guru](https://www.guru99.com/) - [gitconnected](https://gitconnec
 * [Design Primer](https://github.com/donnemartin/system-design-primer)
 * [DP2e - How To Design Programs 2e](https://htdp.org/2020-8-1/Book/)
 * [EAA - Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
+* [Example of Clean Architecture](https://medium.com/tech-at-wildlife-studios/write-backend-systems-50aae8db849e)
 
 ### Craft - Algorithms, Paradigms, Techniques etc.
 
