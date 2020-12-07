@@ -30,16 +30,6 @@ Tutorials - [99guru](https://www.guru99.com/) - [gitconnected](https://gitconnec
 * [./Architecture](arch.md#architecture)
 * [./Courses](courses.md#dev-courses)
 
-### Architecture
-
-* [12 Factor App](https://12factor.net)
-* [API Design Best Practices](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/)
-* [Design Primer](https://github.com/donnemartin/system-design-primer)
-* [DP2e - How To Design Programs 2e](https://htdp.org/2020-8-1/Book/)
-* [EAA - Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
-* [Example of Clean Architecture](https://medium.com/tech-at-wildlife-studios/write-backend-systems-50aae8db849e)
-* [RESTful APIs in a Nutshell](https://medium.com/@lucasamonrc/restful-apis-in-a-nutshell-ba7cd50811af)
-
 ### Craft - Algorithms, Paradigms, Techniques etc.
 
 * [Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
@@ -50,7 +40,6 @@ Tutorials - [99guru](https://www.guru99.com/) - [gitconnected](https://gitconnec
 
 ### Data - Databases, Steaming Stacks etc.
 
-* [DB Design with UML](https://web.csulb.edu/colleges/coe/cecs/dbdesign/dbdesign.php?page=intro.html) book
 * [DB Indices - Use the Index, Luke!](https://use-the-index-luke.com/) book
 * [SQL Notes for Professionals](https://goalkicker.com/SQLBook/) book
 
