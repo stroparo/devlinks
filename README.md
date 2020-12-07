@@ -57,7 +57,7 @@ Tutorials - [99guru](https://www.guru99.com/) - [gitconnected](https://gitconnec
 * [Groovy](https://leanpub.com/groovytutorial/read) tutorial
 * Java - [Eckel](https://leanpub.com/onjava8)(\?)
 * JavaScript - [es6-femasters](https://frontendmasters.com/books/javascript-enlightenment/) - [human](https://read.humanjavascript.com/) - [modular](https://mjavascript.com/) - [patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-    - TypeScrypt - [essential](https://leanpub.com/essentialtypescript/read)
+    - [TypeScrypt](https://www.typescriptlang.org/) - [essential](https://leanpub.com/essentialtypescript/read)
 * JavaScript [Allongé](https://leanpub.com/javascriptallongesix) book
 * Python - [antipatterns](https://docs.quantifiedcode.com/python-anti-patterns/) - [automate](https://automatetheboringstuff.com/)/[release](https://inventwithpython.com/blog/2019/10/07/whats-new-in-the-2nd-edition-of-automate-the-boring-stuff-with-python/) - [tiny(3.8)](https://github.com/mattharrison/Tiny-Python-3.8-Notebook/blob/master/python38.rst) - [hitchhiker's-guide](https://docs.python-guide.org/) - [py4everybody](https://www.py4e.com/book.php) - [think2e](https://greenteapress.com/wp/think-python-2e/)
 * Ruby - [enough(just)](http://jasonkim.ca/projects/just_enough_ruby_to_get_by/) - [launchschool](https://launchschool.com/books/ruby) - [wikibook](https://en.wikibooks.org/wiki/Ruby_Programming)
