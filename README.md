@@ -91,7 +91,7 @@ Tutorials - [99guru](https://www.guru99.com/) - [gitconnected](https://gitconnec
 
 ### Tools
 
-* Git - [automation](https://www.onwebsecurity.com/configuration/automating-repetitive-git-setup-tasks.html) - [cherry-pick](https://mijingo.com/blog/using-git-cherry-pick) - [oneflow](http://endoflineblog.com/oneflow-a-git-branching-model-and-workflow) - [patch-a(pply)m(ailbox)](https://mijingo.com/blog/creating-and-applying-patch-files-in-git) - [rebase](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase) - [squash](https://driggl.com/blog/a/how-squashing-commits-can-improve-your-git-workflow)
+* Git - [amend](https://www.atlassian.com/git/tutorials/rewriting-history) - [automation](https://www.onwebsecurity.com/configuration/automating-repetitive-git-setup-tasks.html) - [cherry-pick](https://mijingo.com/blog/using-git-cherry-pick) - [oneflow](http://endoflineblog.com/oneflow-a-git-branching-model-and-workflow) - [patch-a(pply)m(ailbox)](https://mijingo.com/blog/creating-and-applying-patch-files-in-git) - [rebase](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase) - [squash](https://driggl.com/blog/a/how-squashing-commits-can-improve-your-git-workflow)
 * Vim - [hard-way](http://learnvimscriptthehardway.stevelosh.com) - [primer](https://danielmiessler.com/study/vim/) - [why](http://www.viemu.com/a-why-vi-vim.html)
 
 ---
