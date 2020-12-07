@@ -59,6 +59,7 @@
 * Deploy::SSH - [shipit](https://github.com/sapegin/shipit)
 * Monitor::Tracing - [zipkin](https://zipkin.io/)
 * Net proxy debug & monitor [Charles](https://www.charlesproxy.com/)
+* Process mon - [bashtop](https://github.com/aristocratos/bashtop)
 * Process run - [honcho](https://github.com/nickstenning/honcho)
 * Tools::CLI - [MOTD](https://www.putorius.net/custom-motd-login-screen-linux.html) - [terms-sexy](https://terminalsare.sexy/) - [tilix-term](https://gnunn1.github.io/tilix-web/) - [tldr(man)](https://github.com/tldr-pages/tldr)
 
