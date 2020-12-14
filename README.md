@@ -40,8 +40,7 @@ Learn software development concepts and technology stacks. Mostly reading. For c
 ### Infra - SRE / SysAdmin - DevOps, SysOps, TechOps etc.
 
 * Kubernetes - [patterns](https://developers.redhat.com/blog/2020/05/11/top-10-must-know-kubernetes-design-patterns/)
-* Linux shell - [art-of-command-line(quick)](https://github.com/jlevy/the-art-of-command-line) - [bash](https://guide.bash.academy/) - **[@flossmanuals](http://write.flossmanuals.net/command-line/introduction/)** - [@ryans](https://ryanstutorials.net/)
-    - [awk](https://www.grymoire.com/Unix/Awk.html)/[wiki](https://en.wikibooks.org/wiki/An_Awk_Primer)
+* Linux shell - [art-of-command-line(quick)](https://github.com/jlevy/the-art-of-command-line) - [awk](https://www.grymoire.com/Unix/Awk.html) - [bash](https://guide.bash.academy/) - **[@flossmanuals](http://write.flossmanuals.net/command-line/introduction/)** - [@ryans](https://ryanstutorials.net/)
 * [Unix Workbench](https://leanpub.com/unix) book
 
 ### Stacks - Languages, Basic Software & Platforms
