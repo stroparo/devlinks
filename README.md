@@ -62,7 +62,8 @@ Learn software development concepts and technology stacks. Mostly reading. For c
 
 ### Tools
 
-* Git - [@atlassian](https://www.atlassian.com/git/tutorials/)/[rebase](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase) - [automate](https://www.onwebsecurity.com/configuration/automating-repetitive-git-setup-tasks.html) - [cherry-pick](https://mijingo.com/blog/using-git-cherry-pick) - commit/[messages](https://github.com/erlang/otp/wiki/writing-good-commit-messages)/[squashing](https://driggl.com/blog/a/how-squashing-commits-can-improve-your-git-workflow) - [patch-a(pply)m(ailbox)](https://mijingo.com/blog/creating-and-applying-patch-files-in-git)
+* Git - [@atlassian](https://www.atlassian.com/git/tutorials/)/[rebase](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase) - [automate](https://www.onwebsecurity.com/configuration/automating-repetitive-git-setup-tasks.html) - [patch-a(pply)m(ailbox)](https://mijingo.com/blog/creating-and-applying-patch-files-in-git)
+    - commit - [cherry-pick](https://mijingo.com/blog/using-git-cherry-pick) - [messages](https://github.com/erlang/otp/wiki/writing-good-commit-messages) - [squashing](https://driggl.com/blog/a/how-squashing-commits-can-improve-your-git-workflow)
     - flows - [book(official)](https://git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project) - [oneflow](http://endoflineblog.com/oneflow-a-git-branching-model-and-workflow)
 * Vim - [hard-way](http://learnvimscriptthehardway.stevelosh.com) - [primer](https://danielmiessler.com/study/vim/) - [why](http://www.viemu.com/a-why-vi-vim.html)
 
