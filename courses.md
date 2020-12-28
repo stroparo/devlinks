@@ -3,6 +3,7 @@
 # Dev Courses
 
 * [freeCodeCamp](https://www.freecodecamp.org/) - full-stack development, with certificates
+* python - [fastapi($)](https://training.talkpython.fm/courses/getting-started-with-fastapi)
 
 ## Infra
 
