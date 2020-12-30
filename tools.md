@@ -40,7 +40,7 @@
 * [@jonas web resources](http://codingheroes.io/resources/)
 * Bootstrap themes - [@fresh](https://freshdesignweb.com/free-bootstrap-templates/) - [@start](https://startbootstrap.com/)
 * icons - [free](https://icon-library.net/)
-* React - [kit](https://blog.logrocket.com/top-7-ui-libraries-and-kits-for-react/)
+* React - [material-ui](https://material-ui.com/) - [react-bootstrap](https://react-bootstrap.github.io/)
 * textures - [toptal](https://www.toptal.com/designers/subtlepatterns/)
 
 ---
