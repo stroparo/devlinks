@@ -4,7 +4,7 @@
 
 # Tools
 
-* Linting - [coala](https://coala.io/) - [sonar](https://www.sonarqube.org/) - [w3c](https://validator.w3.org/#validate_by_input)
+* Linting - [eslint](https://eslint.org/) - [sonar](https://www.sonarqube.org/) - [w3c](https://validator.w3.org/#validate_by_input)
 * Versioning - [bumpversion](https://github.com/peritus/bumpversion) - [gitignore](https://github.com/github/gitignore) - [legit(pip3)](https://github.com/kennethreitz/legit) - [pre-commit(hooks)](https://pre-commit.com/)
   - [git for windows](https://gitforwindows.org/) - [@git-scm](https://git-scm.com/download/win) - [extensions](https://github.com/gitextensions/gitextensions#downloads)
   - github - [refined](https://github.com/sindresorhus/refined-github)
