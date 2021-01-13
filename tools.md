@@ -17,6 +17,7 @@
 * [@rishida | r12a](https://r12a.github.io/)
 * cpf (brazilian's social security number)
 * hmac-sha256
+* [json](https://jsonformatter.curiousconcept.com/#)
 * uuid
 
 ---
