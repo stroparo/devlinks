@@ -25,7 +25,7 @@ Learn software development concepts and technology stacks. Mostly reading. For c
 
 * [./Architecture](arch.md#architecture)
 * [./Courses](courses.md#dev-courses)
-* [Developer Roadmaps](https://roadmap.sh/)
+* [Developer Roadmaps](https://roadmap.sh/) - [java](https://javarevisited.blogspot.com/2018/01/10-frameworks-java-and-web-developers-should-learn.html#axzz53Soo0i1a)
 * Tutorials - [99guru](https://www.guru99.com/) - [gitconnected](https://gitconnected.com/learn/) - [postgresql](https://www.enterprisedb.com/postgres-tutorials) - [w3schools](https://www.w3schools.com/) - [web(mozilla)](https://developer.mozilla.org/docs/Web) - [wikibooks](https://en.wikibooks.org/wiki/Department:Computing)
 
 ### Craft - Algorithms, Paradigms, Techniques etc.
@@ -46,7 +46,7 @@ Learn software development concepts and technology stacks. Mostly reading. For c
 ### Stacks - Languages, Basic Software & Platforms
 
 * C/[Beej's](https://beej.us/guide/bgc/)/[Gustedt](https://modernc.gforge.inria.fr/) - C++/[boost](https://theboostcpplibraries.com/) - [C#](https://en.wikibooks.org/wiki/C_Sharp_Programming) - [Go](https://www.openmymind.net/The-Little-Go-Book/) - [Groovy](https://leanpub.com/groovytutorial/read)
-* JavaScript - [.info](https://javascript.info/) - [allongé](https://leanpub.com/javascriptallongesix) - [es6@fm](https://frontendmasters.com/books/javascript-enlightenment/) - [human](https://read.humanjavascript.com/) - [modular](https://mjavascript.com/) - [TypeScrypt](https://www.typescriptlang.org/)
+* JavaScript - [.info](https://javascript.info/) - [allongé](https://leanpub.com/javascriptallongesix) - [enlighten@fm](https://frontendmasters.com/books/javascript-enlightenment/) - [human](https://read.humanjavascript.com/) - [modular](https://mjavascript.com/) - [TypeScrypt](https://www.typescriptlang.org/)
 * Python - [4everybody](https://www.py4e.com/book.php) - [antipatterns](https://docs.quantifiedcode.com/python-anti-patterns/) - [automate](https://automatetheboringstuff.com/)/[?](https://inventwithpython.com/blog/2019/10/07/whats-new-in-the-2nd-edition-of-automate-the-boring-stuff-with-python/) - [hitchhiker's](https://docs.python-guide.org/) - [think](https://greenteapress.com/wp/think-python-2e/) - **[tiny(3.8)](https://github.com/mattharrison/Tiny-Python-3.8-Notebook/blob/master/python38.rst)** - [@datacamp](https://www.learnpython.org/)
 * [Rust](https://doc.rust-lang.org/book/) - [by-example](https://doc.rust-lang.org/stable/rust-by-example/) - [by-linked-lists](https://rust-unofficial.github.io/too-many-lists/) - [embedded](https://rust-embedded.github.io/book/intro/)
 
