@@ -26,7 +26,7 @@ Learn software development concepts and technology stacks. Mostly reading. For c
 * [./Architecture](arch.md#architecture)
 * [./Courses](courses.md#dev-courses)
 * [Developer Roadmaps](https://roadmap.sh/)
-* Tutorials - [99guru](https://www.guru99.com/) - [gitconnected](https://gitconnected.com/learn/) - [w3schools](https://www.w3schools.com/) - [web(mozilla)](https://developer.mozilla.org/docs/Web) - [wikibooks](https://en.wikibooks.org/wiki/Department:Computing)
+* Tutorials - [99guru](https://www.guru99.com/) - [gitconnected](https://gitconnected.com/learn/) - [postgresql](https://www.enterprisedb.com/postgres-tutorials) - [w3schools](https://www.w3schools.com/) - [web(mozilla)](https://developer.mozilla.org/docs/Web) - [wikibooks](https://en.wikibooks.org/wiki/Department:Computing)
 
 ### Craft - Algorithms, Paradigms, Techniques etc.
 
